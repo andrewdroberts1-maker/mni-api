@@ -1,10 +1,12 @@
 fastapi
 uvicorn[standard]
 python-dotenv
-sentence-transformers
 numpy
 scipy
-yfinance
-pandas
 requests
+pandas
+yfinance
 python-multipart
+torch --index-url https://download.pytorch.org/whl/cpu
+transformers
+sentence-transformers
