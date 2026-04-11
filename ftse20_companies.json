@@ -1,0 +1,931 @@
+[
+  {
+    "name": "AstraZeneca",
+    "ticker_lse": "AZN",
+    "ticker_yahoo": "AZN.L",
+    "finnhub_symbol": "AZN",
+    "search_term": "AstraZeneca",
+    "sector": "Health Care"
+  },
+  {
+    "name": "HSBC Holdings",
+    "ticker_lse": "HSBA",
+    "ticker_yahoo": "HSBA.L",
+    "finnhub_symbol": "HSBC",
+    "search_term": "HSBC",
+    "sector": "Financials"
+  },
+  {
+    "name": "Shell",
+    "ticker_lse": "SHEL",
+    "ticker_yahoo": "SHEL.L",
+    "finnhub_symbol": "SHEL",
+    "search_term": "Shell",
+    "sector": "Energy"
+  },
+  {
+    "name": "Unilever",
+    "ticker_lse": "ULVR",
+    "ticker_yahoo": "ULVR.L",
+    "finnhub_symbol": "UL",
+    "search_term": "Unilever",
+    "sector": "Consumer Staples",
+    "brand_names": [
+      "Dove",
+      "Persil",
+      "Hellmann's",
+      "Ben & Jerry's",
+      "Marmite",
+      "Lynx",
+      "Domestos"
+    ]
+  },
+  {
+    "name": "Rolls-Royce Holdings",
+    "ticker_lse": "RR.",
+    "ticker_yahoo": "RR.L",
+    "finnhub_symbol": "RYCEY",
+    "search_term": "Rolls-Royce",
+    "sector": "Industrials"
+  },
+  {
+    "name": "Rio Tinto",
+    "ticker_lse": "RIO",
+    "ticker_yahoo": "RIO.L",
+    "finnhub_symbol": "RIO",
+    "search_term": "Rio Tinto",
+    "sector": "Materials"
+  },
+  {
+    "name": "British American Tobacco",
+    "ticker_lse": "BATS",
+    "ticker_yahoo": "BATS.L",
+    "finnhub_symbol": "BTI",
+    "search_term": "British American Tobacco",
+    "sector": "Consumer Staples",
+    "brand_names": [
+      "Lucky Strike",
+      "Dunhill",
+      "Vuse",
+      "Camel",
+      "Pall Mall"
+    ]
+  },
+  {
+    "name": "GSK",
+    "ticker_lse": "GSK",
+    "ticker_yahoo": "GSK.L",
+    "finnhub_symbol": "GSK",
+    "search_term": "GSK GlaxoSmithKline",
+    "sector": "Health Care",
+    "brand_names": [
+      "Panadol",
+      "Zantac",
+      "Advair",
+      "Shingrix",
+      "Benlysta"
+    ]
+  },
+  {
+    "name": "Barclays",
+    "ticker_lse": "BARC",
+    "ticker_yahoo": "BARC.L",
+    "finnhub_symbol": "BCS",
+    "search_term": "Barclays",
+    "sector": "Financials"
+  },
+  {
+    "name": "Lloyds Banking Group",
+    "ticker_lse": "LLOY",
+    "ticker_yahoo": "LLOY.L",
+    "finnhub_symbol": "LYG",
+    "search_term": "Lloyds Bank",
+    "sector": "Financials"
+  },
+  {
+    "name": "National Grid",
+    "ticker_lse": "NG.",
+    "ticker_yahoo": "NG.L",
+    "finnhub_symbol": "NGG",
+    "search_term": "National Grid",
+    "sector": "Utilities"
+  },
+  {
+    "name": "RELX",
+    "ticker_lse": "REL",
+    "ticker_yahoo": "REL.L",
+    "finnhub_symbol": "RELX",
+    "search_term": "RELX",
+    "sector": "Industrials",
+    "brand_names": [
+      "LexisNexis",
+      "Elsevier",
+      "Reed Exhibitions",
+      "Cirium"
+    ]
+  },
+  {
+    "name": "NatWest Group",
+    "ticker_lse": "NWG",
+    "ticker_yahoo": "NWG.L",
+    "finnhub_symbol": "NWG",
+    "search_term": "NatWest",
+    "sector": "Financials"
+  },
+  {
+    "name": "BAE Systems",
+    "ticker_lse": "BA.",
+    "ticker_yahoo": "BA.L",
+    "finnhub_symbol": "BAESY",
+    "search_term": "BAE Systems",
+    "sector": "Industrials"
+  },
+  {
+    "name": "Glencore",
+    "ticker_lse": "GLEN",
+    "ticker_yahoo": "GLEN.L",
+    "finnhub_symbol": "GLNCY",
+    "search_term": "Glencore",
+    "sector": "Materials"
+  },
+  {
+    "name": "London Stock Exchange Group",
+    "ticker_lse": "LSEG",
+    "ticker_yahoo": "LSEG.L",
+    "finnhub_symbol": "LSEG",
+    "search_term": "LSEG London Stock Exchange",
+    "sector": "Financials",
+    "brand_names": [
+      "Refinitiv",
+      "FTSE Russell",
+      "LCH",
+      "Turquoise"
+    ]
+  },
+  {
+    "name": "Standard Chartered",
+    "ticker_lse": "STAN",
+    "ticker_yahoo": "STAN.L",
+    "finnhub_symbol": "SCBFF",
+    "search_term": "Standard Chartered",
+    "sector": "Financials"
+  },
+  {
+    "name": "Diageo",
+    "ticker_lse": "DGE",
+    "ticker_yahoo": "DGE.L",
+    "finnhub_symbol": "DEO",
+    "search_term": "Diageo",
+    "sector": "Consumer Staples",
+    "brand_names": [
+      "Johnnie Walker",
+      "Guinness",
+      "Baileys",
+      "Smirnoff",
+      "Captain Morgan",
+      "Tanqueray"
+    ]
+  },
+  {
+    "name": "BP",
+    "ticker_lse": "BP.",
+    "ticker_yahoo": "BP.L",
+    "finnhub_symbol": "BP",
+    "search_term": "BP oil",
+    "sector": "Energy"
+  },
+  {
+    "name": "Vodafone Group",
+    "ticker_lse": "VOD",
+    "ticker_yahoo": "VOD.L",
+    "finnhub_symbol": "VOD",
+    "search_term": "Vodafone",
+    "sector": "Communication Services",
+    "brand_names": [
+      "Vodafone UK",
+      "Vodafone Germany",
+      "VEON",
+      "Vodacom"
+    ]
+  },
+  {
+    "name": "Burberry Group",
+    "ticker_lse": "BRBY",
+    "ticker_yahoo": "BRBY.L",
+    "finnhub_symbol": "BURBY",
+    "search_term": "Burberry",
+    "sector": "Consumer Discretionary"
+  },
+  {
+    "name": "JD Sports Fashion",
+    "ticker_lse": "JD.",
+    "ticker_yahoo": "JD.L",
+    "finnhub_symbol": "JDSPY",
+    "search_term": "JD Sports",
+    "sector": "Consumer Discretionary"
+  },
+  {
+    "name": "Rentokil Initial",
+    "ticker_lse": "RTO",
+    "ticker_yahoo": "RTO.L",
+    "finnhub_symbol": "RTOKY",
+    "search_term": "Rentokil",
+    "sector": "Industrials"
+  },
+  {
+    "name": "Anglo American",
+    "ticker_lse": "AAL",
+    "ticker_yahoo": "AAL.L",
+    "finnhub_symbol": "AAUKF",
+    "search_term": "Anglo American",
+    "sector": "Materials"
+  },
+  {
+    "name": "Persimmon",
+    "ticker_lse": "PSN",
+    "ticker_yahoo": "PSN.L",
+    "finnhub_symbol": "PSMMF",
+    "search_term": "Persimmon housebuilder",
+    "sector": "Real Estate"
+  },
+  {
+    "name": "Aviva",
+    "ticker_lse": "AV.",
+    "ticker_yahoo": "AV.L",
+    "finnhub_symbol": "AVVIY",
+    "search_term": "Aviva insurance",
+    "sector": "Financials"
+  },
+  {
+    "name": "Legal & General",
+    "ticker_lse": "LGEN",
+    "ticker_yahoo": "LGEN.L",
+    "finnhub_symbol": "LGGNY",
+    "search_term": "Legal General",
+    "sector": "Financials"
+  },
+  {
+    "name": "Prudential",
+    "ticker_lse": "PRU",
+    "ticker_yahoo": "PRU.L",
+    "finnhub_symbol": "PUK",
+    "search_term": "Prudential insurance",
+    "sector": "Financials"
+  },
+  {
+    "name": "Experian",
+    "ticker_lse": "EXPN",
+    "ticker_yahoo": "EXPN.L",
+    "finnhub_symbol": "EXPGY",
+    "search_term": "Experian data",
+    "sector": "Industrials",
+    "brand_names": [
+      "CreditExpert",
+      "Experian Boost",
+      "ClearScore"
+    ]
+  },
+  {
+    "name": "Sage Group",
+    "ticker_lse": "SGE",
+    "ticker_yahoo": "SGE.L",
+    "finnhub_symbol": "SGPYY",
+    "search_term": "Sage Group software",
+    "sector": "Information Technology"
+  },
+  {
+    "name": "Marks & Spencer",
+    "ticker_lse": "MKS",
+    "ticker_yahoo": "MKS.L",
+    "finnhub_symbol": "MAKSY",
+    "search_term": "Marks Spencer",
+    "sector": "Consumer Discretionary",
+    "brand_names": [
+      "Marks & Spencer Food",
+      "Per Una",
+      "Sparks"
+    ]
+  },
+  {
+    "name": "Next",
+    "ticker_lse": "NXT",
+    "ticker_yahoo": "NXT.L",
+    "finnhub_symbol": "NXGPY",
+    "search_term": "Next retailer",
+    "sector": "Consumer Discretionary"
+  },
+  {
+    "name": "Tesco",
+    "ticker_lse": "TSCO",
+    "ticker_yahoo": "TSCO.L",
+    "finnhub_symbol": "TSCDY",
+    "search_term": "Tesco supermarket",
+    "sector": "Consumer Staples",
+    "brand_names": [
+      "Tesco Bank",
+      "Booker",
+      "Jack's"
+    ]
+  },
+  {
+    "name": "SSE",
+    "ticker_lse": "SSE",
+    "ticker_yahoo": "SSE.L",
+    "finnhub_symbol": "SSEZF",
+    "search_term": "SSE utilities",
+    "sector": "Utilities"
+  },
+  {
+    "name": "BT Group",
+    "ticker_lse": "BT.A",
+    "ticker_yahoo": "BT-A.L",
+    "finnhub_symbol": "BTGOF",
+    "search_term": "BT Group telecoms",
+    "sector": "Communication Services",
+    "brand_names": [
+      "EE",
+      "Openreach",
+      "BT Sport",
+      "Plusnet"
+    ]
+  },
+  {
+    "name": "IAG",
+    "ticker_lse": "IAG",
+    "ticker_yahoo": "IAG.L",
+    "finnhub_symbol": "ICAGY",
+    "search_term": "IAG British Airways",
+    "sector": "Industrials"
+  },
+  {
+    "name": "Intercontinental Hotels",
+    "ticker_lse": "IHG",
+    "ticker_yahoo": "IHG.L",
+    "finnhub_symbol": "IHG",
+    "search_term": "IHG InterContinental Hotels",
+    "sector": "Consumer Discretionary"
+  },
+  {
+    "name": "Rightmove",
+    "ticker_lse": "RMV",
+    "ticker_yahoo": "RMV.L",
+    "finnhub_symbol": "RTMVY",
+    "search_term": "Rightmove property",
+    "sector": "Real Estate"
+  },
+  {
+    "name": "Segro",
+    "ticker_lse": "SGRO",
+    "ticker_yahoo": "SGRO.L",
+    "finnhub_symbol": "SEGXF",
+    "search_term": "Segro logistics REIT",
+    "sector": "Real Estate"
+  },
+  {
+    "name": "Compass Group",
+    "ticker_lse": "CPG",
+    "ticker_yahoo": "CPG.L",
+    "finnhub_symbol": "CMPGY",
+    "search_term": "Compass Group catering",
+    "sector": "Consumer Discretionary",
+    "brand_names": [
+      "Eurest",
+      "Chartwells",
+      "Restaurant Associates",
+      "Medirest"
+    ]
+  },
+  {
+    "name": "Halma",
+    "ticker_lse": "HLMA",
+    "ticker_yahoo": "HLMA.L",
+    "finnhub_symbol": "HLMAF",
+    "search_term": "Halma safety technology",
+    "sector": "Health Care"
+  },
+  {
+    "name": "Melrose Industries",
+    "ticker_lse": "MRO",
+    "ticker_yahoo": "MRO.L",
+    "finnhub_symbol": "MLSPF",
+    "search_term": "Melrose Industries",
+    "sector": "Industrials"
+  },
+  {
+    "name": "Antofagasta",
+    "ticker_lse": "ANTO",
+    "ticker_yahoo": "ANTO.L",
+    "finnhub_symbol": "ANFGY",
+    "search_term": "Antofagasta copper",
+    "sector": "Materials"
+  },
+  {
+    "name": "easyJet",
+    "ticker_lse": "EZJ",
+    "ticker_yahoo": "EZJ.L",
+    "finnhub_symbol": "ESYJY",
+    "search_term": "easyJet airline",
+    "sector": "Industrials"
+  },
+  {
+    "name": "Whitbread",
+    "ticker_lse": "WTB",
+    "ticker_yahoo": "WTB.L",
+    "finnhub_symbol": "WTBCY",
+    "search_term": "Whitbread Premier Inn",
+    "sector": "Consumer Discretionary"
+  },
+  {
+    "name": "Smith & Nephew",
+    "ticker_lse": "SN.",
+    "ticker_yahoo": "SN.L",
+    "finnhub_symbol": "SNN",
+    "search_term": "Smith Nephew medical",
+    "sector": "Health Care"
+  },
+  {
+    "name": "Hikma Pharmaceuticals",
+    "ticker_lse": "HIK",
+    "ticker_yahoo": "HIK.L",
+    "finnhub_symbol": "HKMPY",
+    "search_term": "Hikma pharmaceuticals",
+    "sector": "Health Care"
+  },
+  {
+    "name": "3i Group",
+    "ticker_lse": "III",
+    "ticker_yahoo": "III.L",
+    "finnhub_symbol": "TGOPY",
+    "search_term": "3i Group private equity",
+    "sector": "Financials"
+  },
+  {
+    "name": "Croda International",
+    "ticker_lse": "CRDA",
+    "ticker_yahoo": "CRDA.L",
+    "finnhub_symbol": "COIHY",
+    "search_term": "Croda specialty chemicals",
+    "sector": "Materials"
+  },
+  {
+    "name": "IMI",
+    "ticker_lse": "IMI",
+    "ticker_yahoo": "IMI.L",
+    "finnhub_symbol": "IMIAF",
+    "search_term": "IMI engineering",
+    "sector": "Industrials"
+  },
+  {
+    "name": "Admiral Group",
+    "ticker_lse": "ADM",
+    "ticker_yahoo": "ADM.L",
+    "finnhub_symbol": "AMIGY",
+    "search_term": "Admiral insurance",
+    "sector": "Financials"
+  },
+  {
+    "name": "Airtel Africa",
+    "ticker_lse": "AAF",
+    "ticker_yahoo": "AAF.L",
+    "finnhub_symbol": "AAFRF",
+    "search_term": "Airtel Africa telecoms",
+    "sector": "Communication Services"
+  },
+  {
+    "name": "Alliance Witan",
+    "ticker_lse": "ALW",
+    "ticker_yahoo": "ALW.L",
+    "finnhub_symbol": "ALWDF",
+    "search_term": "Alliance Witan investment trust",
+    "sector": "Financials"
+  },
+  {
+    "name": "Ashtead Group",
+    "ticker_lse": "AHT",
+    "ticker_yahoo": "AHT.L",
+    "finnhub_symbol": "ASHTF",
+    "search_term": "Ashtead equipment rental",
+    "sector": "Industrials"
+  },
+  {
+    "name": "Associated British Foods",
+    "ticker_lse": "ABF",
+    "ticker_yahoo": "ABF.L",
+    "finnhub_symbol": "ASBFY",
+    "search_term": "Associated British Foods Primark",
+    "sector": "Consumer Staples",
+    "brand_names": [
+      "Primark",
+      "Twinings",
+      "Ovaltine",
+      "Ryvita",
+      "Kingsmill",
+      "Silver Spoon"
+    ]
+  },
+  {
+    "name": "Auto Trader Group",
+    "ticker_lse": "AUTO",
+    "ticker_yahoo": "AUTO.L",
+    "finnhub_symbol": "AOTDF",
+    "search_term": "Auto Trader cars marketplace",
+    "sector": "Communication Services"
+  },
+  {
+    "name": "Barratt Redrow",
+    "ticker_lse": "BTRW",
+    "ticker_yahoo": "BTRW.L",
+    "finnhub_symbol": "BTRWF",
+    "search_term": "Barratt Redrow housebuilder",
+    "sector": "Real Estate"
+  },
+  {
+    "name": "Beazley",
+    "ticker_lse": "BEZ",
+    "ticker_yahoo": "BEZ.L",
+    "finnhub_symbol": "BZLYF",
+    "search_term": "Beazley insurance",
+    "sector": "Financials"
+  },
+  {
+    "name": "Berkeley Group",
+    "ticker_lse": "BKG",
+    "ticker_yahoo": "BKG.L",
+    "finnhub_symbol": "BKGFY",
+    "search_term": "Berkeley Group homes",
+    "sector": "Real Estate"
+  },
+  {
+    "name": "British Land",
+    "ticker_lse": "BLND",
+    "ticker_yahoo": "BLND.L",
+    "finnhub_symbol": "BTLCY",
+    "search_term": "British Land REIT",
+    "sector": "Real Estate"
+  },
+  {
+    "name": "Bunzl",
+    "ticker_lse": "BNZL",
+    "ticker_yahoo": "BNZL.L",
+    "finnhub_symbol": "BZLFY",
+    "search_term": "Bunzl distribution",
+    "sector": "Industrials"
+  },
+  {
+    "name": "Centrica",
+    "ticker_lse": "CNA",
+    "ticker_yahoo": "CNA.L",
+    "finnhub_symbol": "CPYYY",
+    "search_term": "Centrica British Gas energy",
+    "sector": "Utilities"
+  },
+  {
+    "name": "Coca-Cola HBC",
+    "ticker_lse": "CCH",
+    "ticker_yahoo": "CCH.L",
+    "finnhub_symbol": "CCHGY",
+    "search_term": "Coca-Cola HBC bottling",
+    "sector": "Consumer Staples"
+  },
+  {
+    "name": "Convatec Group",
+    "ticker_lse": "CTEC",
+    "ticker_yahoo": "CTEC.L",
+    "finnhub_symbol": "CNVVY",
+    "search_term": "Convatec medical devices",
+    "sector": "Health Care"
+  },
+  {
+    "name": "DCC",
+    "ticker_lse": "DCC",
+    "ticker_yahoo": "DCC.L",
+    "finnhub_symbol": "DCCPF",
+    "search_term": "DCC distribution energy",
+    "sector": "Industrials"
+  },
+  {
+    "name": "Diploma",
+    "ticker_lse": "DPLM",
+    "ticker_yahoo": "DPLM.L",
+    "finnhub_symbol": "DPLMF",
+    "search_term": "Diploma distribution technical",
+    "sector": "Industrials"
+  },
+  {
+    "name": "Endeavour Mining",
+    "ticker_lse": "EDV",
+    "ticker_yahoo": "EDV.L",
+    "finnhub_symbol": "EDVMF",
+    "search_term": "Endeavour Mining gold",
+    "sector": "Materials"
+  },
+  {
+    "name": "Entain",
+    "ticker_lse": "ENT",
+    "ticker_yahoo": "ENT.L",
+    "finnhub_symbol": "GMVHF",
+    "search_term": "Entain Ladbrokes betting gambling",
+    "sector": "Consumer Discretionary",
+    "brand_names": [
+      "Ladbrokes",
+      "Coral",
+      "BetMGM",
+      "bwin",
+      "PartyPoker"
+    ]
+  },
+  {
+    "name": "F&C Investment Trust",
+    "ticker_lse": "FCIT",
+    "ticker_yahoo": "FCIT.L",
+    "finnhub_symbol": "FCITF",
+    "search_term": "F&C Investment Trust",
+    "sector": "Financials"
+  },
+  {
+    "name": "Fresnillo",
+    "ticker_lse": "FRES",
+    "ticker_yahoo": "FRES.L",
+    "finnhub_symbol": "FNLPF",
+    "search_term": "Fresnillo silver mining",
+    "sector": "Materials"
+  },
+  {
+    "name": "Games Workshop",
+    "ticker_lse": "GAW",
+    "ticker_yahoo": "GAW.L",
+    "finnhub_symbol": "GMWKF",
+    "search_term": "Games Workshop Warhammer",
+    "sector": "Consumer Discretionary"
+  },
+  {
+    "name": "Haleon",
+    "ticker_lse": "HLN",
+    "ticker_yahoo": "HLN.L",
+    "finnhub_symbol": "HLN",
+    "search_term": "Haleon consumer health",
+    "sector": "Consumer Staples",
+    "brand_names": [
+      "Sensodyne",
+      "Panadol",
+      "Voltaren",
+      "Centrum",
+      "Otrivin",
+      "Theraflu"
+    ]
+  },
+  {
+    "name": "Hargreaves Lansdown",
+    "ticker_lse": "HL.",
+    "ticker_yahoo": "HL.L",
+    "finnhub_symbol": "HRGLY",
+    "search_term": "Hargreaves Lansdown investment platform",
+    "sector": "Financials"
+  },
+  {
+    "name": "Hiscox",
+    "ticker_lse": "HSX",
+    "ticker_yahoo": "HSX.L",
+    "finnhub_symbol": "HSCXF",
+    "search_term": "Hiscox insurance",
+    "sector": "Financials"
+  },
+  {
+    "name": "Howden Joinery",
+    "ticker_lse": "HWDN",
+    "ticker_yahoo": "HWDN.L",
+    "finnhub_symbol": "HWDNF",
+    "search_term": "Howden Joinery kitchens",
+    "sector": "Consumer Discretionary"
+  },
+  {
+    "name": "Imperial Brands",
+    "ticker_lse": "IMB",
+    "ticker_yahoo": "IMB.L",
+    "finnhub_symbol": "IMBBY",
+    "search_term": "Imperial Brands tobacco",
+    "sector": "Consumer Staples",
+    "brand_names": [
+      "JPS",
+      "Winston",
+      "blu",
+      "Davidoff",
+      "West"
+    ]
+  },
+  {
+    "name": "Informa",
+    "ticker_lse": "INF",
+    "ticker_yahoo": "INF.L",
+    "finnhub_symbol": "IFJPY",
+    "search_term": "Informa events media",
+    "sector": "Communication Services"
+  },
+  {
+    "name": "Intermediate Capital Group",
+    "ticker_lse": "ICG",
+    "ticker_yahoo": "ICG.L",
+    "finnhub_symbol": "ICGUF",
+    "search_term": "Intermediate Capital private credit",
+    "sector": "Financials"
+  },
+  {
+    "name": "Intertek Group",
+    "ticker_lse": "ITRK",
+    "ticker_yahoo": "ITRK.L",
+    "finnhub_symbol": "IKTSF",
+    "search_term": "Intertek testing inspection",
+    "sector": "Industrials"
+  },
+  {
+    "name": "Kingfisher",
+    "ticker_lse": "KGF",
+    "ticker_yahoo": "KGF.L",
+    "finnhub_symbol": "KGFHY",
+    "search_term": "Kingfisher B&Q home improvement",
+    "sector": "Consumer Discretionary"
+  },
+  {
+    "name": "Land Securities",
+    "ticker_lse": "LAND",
+    "ticker_yahoo": "LAND.L",
+    "finnhub_symbol": "LSGOF",
+    "search_term": "Land Securities REIT property",
+    "sector": "Real Estate"
+  },
+  {
+    "name": "LondonMetric Property",
+    "ticker_lse": "LMP",
+    "ticker_yahoo": "LMP.L",
+    "finnhub_symbol": "LNDMF",
+    "search_term": "LondonMetric logistics REIT",
+    "sector": "Real Estate"
+  },
+  {
+    "name": "M&G",
+    "ticker_lse": "MNG",
+    "ticker_yahoo": "MNG.L",
+    "finnhub_symbol": "MGPUF",
+    "search_term": "M&G asset management savings",
+    "sector": "Financials"
+  },
+  {
+    "name": "Mondi",
+    "ticker_lse": "MNDI",
+    "ticker_yahoo": "MNDI.L",
+    "finnhub_symbol": "MONDY",
+    "search_term": "Mondi packaging paper",
+    "sector": "Materials"
+  },
+  {
+    "name": "Pearson",
+    "ticker_lse": "PSON",
+    "ticker_yahoo": "PSON.L",
+    "finnhub_symbol": "PSO",
+    "search_term": "Pearson education publishing",
+    "sector": "Communication Services",
+    "brand_names": [
+      "Pearson VUE",
+      "Edexcel",
+      "BTEC",
+      "Financial Times"
+    ]
+  },
+  {
+    "name": "Pershing Square Holdings",
+    "ticker_lse": "PSH",
+    "ticker_yahoo": "PSH.L",
+    "finnhub_symbol": "PSHZF",
+    "search_term": "Pershing Square Bill Ackman investment",
+    "sector": "Financials"
+  },
+  {
+    "name": "Phoenix Group",
+    "ticker_lse": "PHNX",
+    "ticker_yahoo": "PHNX.L",
+    "finnhub_symbol": "PNXGF",
+    "search_term": "Phoenix Group life insurance pensions",
+    "sector": "Financials"
+  },
+  {
+    "name": "Reckitt Benckiser",
+    "ticker_lse": "RKT",
+    "ticker_yahoo": "RKT.L",
+    "finnhub_symbol": "RBGLY",
+    "search_term": "Reckitt consumer health hygiene",
+    "sector": "Consumer Staples",
+    "brand_names": [
+      "Nurofen",
+      "Dettol",
+      "Mead Johnson",
+      "Enfamil",
+      "Durex",
+      "Strepsils",
+      "Gaviscon"
+    ]
+  },
+  {
+    "name": "Schroders",
+    "ticker_lse": "SDR",
+    "ticker_yahoo": "SDR.L",
+    "finnhub_symbol": "SHNWF",
+    "search_term": "Schroders asset management",
+    "sector": "Financials"
+  },
+  {
+    "name": "Smiths Group",
+    "ticker_lse": "SMIN",
+    "ticker_yahoo": "SMIN.L",
+    "finnhub_symbol": "SMGZY",
+    "search_term": "Smiths Group industrial technology",
+    "sector": "Industrials"
+  },
+  {
+    "name": "Spirax Group",
+    "ticker_lse": "SPX",
+    "ticker_yahoo": "SPX.L",
+    "finnhub_symbol": "SPXSF",
+    "search_term": "Spirax steam engineering",
+    "sector": "Industrials"
+  },
+  {
+    "name": "St James's Place",
+    "ticker_lse": "STJ",
+    "ticker_yahoo": "STJ.L",
+    "finnhub_symbol": "STJPF",
+    "search_term": "St James Place wealth management",
+    "sector": "Financials"
+  },
+  {
+    "name": "Taylor Wimpey",
+    "ticker_lse": "TW.",
+    "ticker_yahoo": "TW.L",
+    "finnhub_symbol": "TWODF",
+    "search_term": "Taylor Wimpey housebuilder",
+    "sector": "Real Estate"
+  },
+  {
+    "name": "Unite Group",
+    "ticker_lse": "UTG",
+    "ticker_yahoo": "UTG.L",
+    "finnhub_symbol": "UTGPF",
+    "search_term": "Unite Group student accommodation",
+    "sector": "Real Estate"
+  },
+  {
+    "name": "WPP",
+    "ticker_lse": "WPP",
+    "ticker_yahoo": "WPP.L",
+    "finnhub_symbol": "WPP",
+    "search_term": "WPP advertising marketing",
+    "sector": "Communication Services",
+    "brand_names": [
+      "Ogilvy",
+      "GroupM",
+      "Grey",
+      "JWT",
+      "Wunderman Thompson",
+      "VMLY&R"
+    ]
+  },
+  {
+    "name": "Severn Trent",
+    "ticker_lse": "SVT",
+    "ticker_yahoo": "SVT.L",
+    "finnhub_symbol": "STRNY",
+    "search_term": "Severn Trent water utility",
+    "sector": "Utilities"
+  },
+  {
+    "name": "Abrdn",
+    "ticker_lse": "ABDN",
+    "ticker_yahoo": "ABDN.L",
+    "finnhub_symbol": "SLFPF",
+    "search_term": "Abrdn Standard Life Aberdeen asset management",
+    "sector": "Financials"
+  },
+  {
+    "name": "Coca-Cola Europacific Partners",
+    "ticker_lse": "CCEP",
+    "ticker_yahoo": "CCEP.L",
+    "finnhub_symbol": "CCEP",
+    "search_term": "Coca-Cola Europacific bottling",
+    "sector": "Consumer Staples"
+  },
+  {
+    "name": "Ocado Group",
+    "ticker_lse": "OCDO",
+    "ticker_yahoo": "OCDO.L",
+    "finnhub_symbol": "OCDDY",
+    "search_term": "Ocado grocery technology",
+    "sector": "Consumer Staples"
+  },
+  {
+    "name": "Flutter Entertainment",
+    "ticker_lse": "FLTF",
+    "ticker_yahoo": "FLTF.L",
+    "finnhub_symbol": "PDYPY",
+    "search_term": "Flutter FanDuel betting gambling",
+    "sector": "Consumer Discretionary"
+  }
+]

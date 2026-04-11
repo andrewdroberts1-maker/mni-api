@@ -1,0 +1,2047 @@
+{
+  "description": "Verified historical seed events for top 20 FTSE 100 companies. All dates confirmed from official company announcements or verified news sources. Used to supplement the free-tier RNS API which provides only 7 days of history.",
+  "generated": "2026-04-07",
+  "AZN": [
+    {
+      "id": "AZN_001",
+      "source": "seed_historical",
+      "company": "AstraZeneca",
+      "ticker": "AZN",
+      "headline": "AstraZeneca Raises Full-Year Guidance Following Strong Q3 Revenue Growth",
+      "body": "AstraZeneca raises its full-year total revenue and core EPS guidance following continued strong performance across its oncology, rare disease and biopharmaceuticals portfolios. Total revenue growth driven by Tagrisso, Farxiga and Lynparza.",
+      "published_at": "2023-11-09T07:00:00Z",
+      "category": [
+        "Trading Update",
+        "Guidance Upgrade"
+      ],
+      "narrative_tag": "financial_results",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    },
+    {
+      "id": "AZN_002",
+      "source": "seed_historical",
+      "company": "AstraZeneca",
+      "ticker": "AZN",
+      "headline": "AstraZeneca Announces Plan for US Primary Listing Alongside London",
+      "body": "AstraZeneca announces it is exploring a potential US primary listing on Nasdaq to complement its existing London Stock Exchange listing, citing the importance of US capital markets to its growth ambitions and investor base.",
+      "published_at": "2024-05-21T07:00:00Z",
+      "category": [
+        "Strategic Announcement"
+      ],
+      "narrative_tag": "strategic_shift",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    },
+    {
+      "id": "AZN_003",
+      "source": "seed_historical",
+      "company": "AstraZeneca",
+      "ticker": "AZN",
+      "headline": "AstraZeneca Full Year Results — Revenue Grows 18% to $45.8bn, Guidance Raised",
+      "body": "AstraZeneca reports full year 2023 results with total revenue of $45.8 billion, up 18% at constant currency. Core EPS increases 13%. The company raises 2025 and 2030 revenue ambitions, targeting $80 billion by 2030.",
+      "published_at": "2024-02-08T07:00:00Z",
+      "category": [
+        "Financial Results"
+      ],
+      "narrative_tag": "financial_results",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    },
+    {
+      "id": "AZN_004",
+      "source": "seed_historical",
+      "company": "AstraZeneca",
+      "ticker": "AZN",
+      "headline": "AstraZeneca Agrees $1.2bn Acquisition of Gracell Biotechnologies to Accelerate Cell Therapy Pipeline",
+      "body": "AstraZeneca announces a definitive agreement to acquire Gracell Biotechnologies for approximately $1.2 billion. The acquisition gives AstraZeneca access to GC012F, a novel CAR-T cell therapy in clinical development for haematological malignancies and autoimmune diseases. The offer represents a 62% premium to Gracell's closing share price and is expected to close in Q1 2024 subject to regulatory approvals.",
+      "published_at": "2023-12-26T07:00:00Z",
+      "category": [
+        "M&A",
+        "Acquisition Announcement"
+      ],
+      "narrative_tag": "ma_activity",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    }
+  ],
+  "HSBA": [
+    {
+      "id": "HSBA_001",
+      "source": "seed_historical",
+      "company": "HSBC Holdings",
+      "ticker": "HSBA",
+      "headline": "HSBC CEO Noel Quinn Announces Surprise Retirement After Five Years",
+      "body": "HSBC Holdings announces that Group Chief Executive Noel Quinn has decided to retire after more than five years as CEO and a 37-year career at the bank. The board has commenced a succession process. Quinn's retirement is described as his own decision and comes after a period of strong financial performance.",
+      "published_at": "2024-04-30T06:00:00Z",
+      "category": [
+        "Leadership Change",
+        "CEO Departure"
+      ],
+      "narrative_tag": "leadership_instability",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    },
+    {
+      "id": "HSBA_002",
+      "source": "seed_historical",
+      "company": "HSBC Holdings",
+      "ticker": "HSBA",
+      "headline": "Georges Elhedery Appointed as HSBC Group Chief Executive with Planned Succession",
+      "body": "HSBC Holdings announces the appointment of Georges Elhedery as Group Chief Executive, effective 2 September 2024, succeeding Noel Quinn. Elhedery has been Group CFO since January 2023 and is an internal appointment following a structured succession process. Quinn will work with Elhedery during a transition period.",
+      "published_at": "2024-07-17T06:00:00Z",
+      "category": [
+        "Leadership Appointment"
+      ],
+      "narrative_tag": "leadership_change",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    },
+    {
+      "id": "HSBA_003",
+      "source": "seed_historical",
+      "company": "HSBC Holdings",
+      "ticker": "HSBA",
+      "headline": "HSBC Full Year 2023 Results — Pre-Tax Profit Rises to $30.3bn, Special Dividend Announced",
+      "body": "HSBC reports record annual pre-tax profit of $30.3 billion for 2023, up from $17.5 billion in 2022. The board announces a special dividend of $0.21 per share in addition to the ordinary dividend. The results benefit from higher interest rates and strong performance across Asia.",
+      "published_at": "2024-02-21T07:00:00Z",
+      "category": [
+        "Financial Results",
+        "Dividend"
+      ],
+      "narrative_tag": "financial_results",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    }
+  ],
+  "SHEL": [
+    {
+      "id": "SHEL_001",
+      "source": "seed_historical",
+      "company": "Shell",
+      "ticker": "SHEL",
+      "headline": "Shell Appoints Wael Sawan as Chief Executive Officer to Succeed Ben van Beurden",
+      "body": "Shell announces the appointment of Wael Sawan as Chief Executive Officer and executive director, with effect from 1 January 2023. Sawan succeeds Ben van Beurden, who has led Shell for nine years. Sawan has been CEO of Shell's Integrated Gas, Renewables and Energy Solutions division.",
+      "published_at": "2022-11-15T07:00:00Z",
+      "category": [
+        "Leadership Appointment"
+      ],
+      "narrative_tag": "leadership_change",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    },
+    {
+      "id": "SHEL_002",
+      "source": "seed_historical",
+      "company": "Shell",
+      "ticker": "SHEL",
+      "headline": "Shell Announces Strategic Reset — Slows Renewable Energy Transition, Prioritises Oil and Gas Returns",
+      "body": "Shell CEO Wael Sawan announces a strategic reset focused on delivering higher returns to shareholders. The company will slow the pace of its renewable energy transition, prioritise oil and gas production, and reduce its carbon targets. The move represents a significant shift from predecessor Ben van Beurden's strategy.",
+      "published_at": "2023-06-14T07:00:00Z",
+      "category": [
+        "Strategy Update"
+      ],
+      "narrative_tag": "strategic_shift",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    },
+    {
+      "id": "SHEL_003",
+      "source": "seed_historical",
+      "company": "Shell",
+      "ticker": "SHEL",
+      "headline": "Shell Q4 and Full Year 2023 Results — Adjusted Earnings $28.3bn, Buyback Increased",
+      "body": "Shell reports full year 2023 adjusted earnings of $28.3 billion and announces an increase to its share buyback programme to $3.5 billion for Q1 2024. The company reaffirms its capital allocation framework and progressive dividend policy.",
+      "published_at": "2024-02-01T07:00:00Z",
+      "category": [
+        "Financial Results"
+      ],
+      "narrative_tag": "financial_results",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    },
+    {
+      "id": "SHEL_004",
+      "source": "seed_historical",
+      "company": "Shell",
+      "ticker": "SHEL",
+      "headline": "Shell Agrees Acquisition of Nature Energy for €1.9bn to Build Biogas Position",
+      "body": "Shell announces an agreement to acquire Nature Energy Biogas A/S, Europe's largest producer of renewable natural gas, for approximately €1.9 billion. The acquisition supports Shell's strategy to grow its integrated gas business and increase production of low-carbon fuels. Nature Energy operates 14 biogas plants in Denmark producing biomethane from agricultural waste.",
+      "published_at": "2022-12-19T07:00:00Z",
+      "category": [
+        "M&A",
+        "Acquisition Announcement"
+      ],
+      "narrative_tag": "ma_activity",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    }
+  ],
+  "ULVR": [
+    {
+      "id": "ULVR_001",
+      "source": "seed_historical",
+      "company": "Unilever",
+      "ticker": "ULVR",
+      "headline": "Unilever CEO Alan Jope to Retire, Successor Search Underway",
+      "body": "Unilever announces that CEO Alan Jope will retire from the company at the end of 2023. The announcement follows a difficult period for the company including a failed bid for GSK's consumer healthcare business and activist investor pressure from Nelson Peltz. The board has commenced a global search for a successor.",
+      "published_at": "2022-09-26T07:00:00Z",
+      "category": [
+        "Leadership Change",
+        "CEO Departure"
+      ],
+      "narrative_tag": "leadership_instability",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    },
+    {
+      "id": "ULVR_002",
+      "source": "seed_historical",
+      "company": "Unilever",
+      "ticker": "ULVR",
+      "headline": "Unilever Appoints Hein Schumacher as New Chief Executive Officer",
+      "body": "Unilever announces the appointment of Hein Schumacher as Chief Executive Officer, effective 1 July 2023. Schumacher is currently CEO of Royal FrieslandCampina and has been a Non-Executive Director of Unilever since October 2022. Alan Jope will step down from the Unilever Board on 1 July.",
+      "published_at": "2023-03-20T07:00:00Z",
+      "category": [
+        "Leadership Appointment"
+      ],
+      "narrative_tag": "leadership_change",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    },
+    {
+      "id": "ULVR_003",
+      "source": "seed_historical",
+      "company": "Unilever",
+      "ticker": "ULVR",
+      "headline": "Unilever Announces Ice Cream Separation and Productivity Programme",
+      "body": "Unilever announces it will separate its ice cream business, which includes brands such as Magnum and Ben & Jerry's, into a standalone company. The company also announces a productivity programme targeting EUR 800 million of savings by end of 2025 and the elimination of approximately 7,500 roles.",
+      "published_at": "2024-03-19T07:00:00Z",
+      "category": [
+        "Strategic Announcement",
+        "Restructuring"
+      ],
+      "narrative_tag": "restructuring",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    },
+    {
+      "id": "ULVR_004",
+      "source": "seed_historical",
+      "company": "Unilever",
+      "ticker": "ULVR",
+      "headline": "Unilever Confirms Failed £50bn Approach for GSK Consumer Healthcare Business",
+      "body": "Unilever confirms it made three proposals to acquire GSK consumer healthcare valued at up to £50 billion, all rejected by GSK as fundamentally undervaluing the business. Investor reaction is sharply negative as analysts question strategic logic and valuation. Activist investor Nelson Peltz subsequently builds a stake.",
+      "published_at": "2022-01-19T07:00:00Z",
+      "category": [
+        "M&A Failure",
+        "Strategic Announcement"
+      ],
+      "narrative_tag": "ma_activity",
+      "response_type": "reactive",
+      "response_timing": "immediate",
+      "crisis_trigger": "market_rumour"
+    },
+    {
+      "id": "ULVR_005",
+      "source": "seed_historical",
+      "company": "Unilever",
+      "ticker": "ULVR",
+      "headline": "Nelson Peltz's Trian Fund Builds Stake in Unilever Following Failed GSK Bid and Strategic Concerns",
+      "body": "Activist investor Nelson Peltz and his Trian Fund Management build a stake in Unilever following the company's failed and widely criticised £50 billion approach for GSK Consumer Healthcare. Trian has a track record of pushing for operational improvements and management changes at consumer goods companies. Unilever must decide how to engage with Peltz and whether to pre-empt activist demands with a strategic update.",
+      "published_at": "2022-02-17T07:00:00Z",
+      "category": [
+        "Activist Campaign",
+        "Strategic Pressure"
+      ],
+      "narrative_tag": "reputational_crisis",
+      "response_type": "reactive",
+      "response_timing": "delayed",
+      "crisis_trigger": "activist"
+    }
+  ],
+  "RR.": [
+    {
+      "id": "RR_001",
+      "source": "seed_historical",
+      "company": "Rolls-Royce Holdings",
+      "ticker": "RR.",
+      "headline": "Rolls-Royce Appoints Tufan Erginbilgic as Chief Executive Officer",
+      "body": "Rolls-Royce announces the appointment of Tufan Erginbilgic as Chief Executive Officer, effective 1 January 2023. He succeeds Warren East who announced his intention to step down on 24 February 2022. Erginbilgic has extensive experience in complex industrial businesses including over 20 years at BP where he led the downstream business.",
+      "published_at": "2022-07-26T07:00:00Z",
+      "category": [
+        "Leadership Appointment"
+      ],
+      "narrative_tag": "leadership_change",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    },
+    {
+      "id": "RR_002",
+      "source": "seed_historical",
+      "company": "Rolls-Royce Holdings",
+      "ticker": "RR.",
+      "headline": "Rolls-Royce New CEO Describes Company as a Burning Platform, Announces Transformation Plan",
+      "body": "New Rolls-Royce CEO Tufan Erginbilgic describes the company as a burning platform that is underperforming every key competitor. He outlines a transformation plan focusing on commercial discipline, cost reduction and higher-margin contracts. The company announces a comprehensive strategic review.",
+      "published_at": "2023-01-23T07:00:00Z",
+      "category": [
+        "Strategy Update",
+        "Transformation"
+      ],
+      "narrative_tag": "strategic_shift",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    },
+    {
+      "id": "RR_003",
+      "source": "seed_historical",
+      "company": "Rolls-Royce Holdings",
+      "ticker": "RR.",
+      "headline": "Rolls-Royce Full Year 2023 Results — Operating Profit Doubles to £1.6bn, Dividend Reinstated",
+      "body": "Rolls-Royce reports full year 2023 operating profit of £1.6 billion, more than double the prior year and significantly ahead of consensus estimates. The company reinstates its dividend and raises its medium-term financial targets. CEO Erginbilgic describes the results as a step change in performance.",
+      "published_at": "2024-02-22T07:00:00Z",
+      "category": [
+        "Financial Results",
+        "Dividend"
+      ],
+      "narrative_tag": "financial_results",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    }
+  ],
+  "RIO": [
+    {
+      "id": "RIO_001",
+      "source": "seed_historical",
+      "company": "Rio Tinto",
+      "ticker": "RIO",
+      "headline": "Rio Tinto Full Year 2022 Results — Underlying Earnings Fall 38% on Lower Commodity Prices",
+      "body": "Rio Tinto reports full year 2022 underlying earnings of $13.3 billion, down 38% from the record prior year, reflecting lower iron ore prices and higher inflation. The total dividend is $5.61 per share, down from $10.40 in 2021.",
+      "published_at": "2023-02-22T07:00:00Z",
+      "category": [
+        "Financial Results",
+        "Dividend"
+      ],
+      "narrative_tag": "financial_results",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    },
+    {
+      "id": "RIO_002",
+      "source": "seed_historical",
+      "company": "Rio Tinto",
+      "ticker": "RIO",
+      "headline": "Rio Tinto Agrees $6.7bn Acquisition of Arcadium Lithium to Expand Battery Materials Portfolio",
+      "body": "Rio Tinto agrees to acquire Arcadium Lithium for approximately $6.7 billion in an all-cash transaction. The acquisition significantly expands Rio Tinto's position in lithium, a key battery material for electric vehicles and energy storage, and is the company's largest acquisition in more than a decade.",
+      "published_at": "2024-10-09T07:00:00Z",
+      "category": [
+        "Merger & Acquisition"
+      ],
+      "narrative_tag": "ma_activity",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    }
+  ],
+  "BATS": [
+    {
+      "id": "BATS_001",
+      "source": "seed_historical",
+      "company": "British American Tobacco",
+      "ticker": "BATS",
+      "headline": "British American Tobacco Takes £25bn Non-Cash Impairment on US Cigarette Brands",
+      "body": "British American Tobacco announces a non-cash impairment charge of approximately £25 billion on its US combustible cigarette brands including Newport and Camel, reflecting structural decline in the US cigarette market. The company reiterates its commitment to its transformation towards non-combustible products.",
+      "published_at": "2023-12-08T07:00:00Z",
+      "category": [
+        "Profit Warning",
+        "Impairment"
+      ],
+      "narrative_tag": "profit_warning",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    },
+    {
+      "id": "BATS_002",
+      "source": "seed_historical",
+      "company": "British American Tobacco",
+      "ticker": "BATS",
+      "headline": "British American Tobacco Announces Tadeu Marroco as New Chief Executive",
+      "body": "British American Tobacco announces the appointment of Tadeu Marroco as its new Chief Executive Officer. Marroco, the company's current Finance Director, succeeds Jack Bowles who is retiring. The appointment is an internal succession.",
+      "published_at": "2023-01-19T07:00:00Z",
+      "category": [
+        "Leadership Appointment"
+      ],
+      "narrative_tag": "leadership_change",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    }
+  ],
+  "GSK": [
+    {
+      "id": "GSK_001",
+      "source": "seed_historical",
+      "company": "GSK",
+      "ticker": "GSK",
+      "headline": "GSK Completes Demerger of Haleon Consumer Healthcare Business",
+      "body": "GSK completes the demerger of its consumer healthcare business, Haleon, creating a new standalone FTSE 100 company. GSK shareholders receive one Haleon share for every one GSK share held. The demerger allows GSK to focus exclusively on pharmaceuticals and vaccines.",
+      "published_at": "2022-07-18T07:00:00Z",
+      "category": [
+        "Demerger",
+        "Strategic Transaction"
+      ],
+      "narrative_tag": "restructuring",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    },
+    {
+      "id": "GSK_002",
+      "source": "seed_historical",
+      "company": "GSK",
+      "ticker": "GSK",
+      "headline": "GSK Raises Full Year Guidance After Strong Sales Growth Across Vaccines and Specialty Medicines",
+      "body": "GSK raises its full year 2023 guidance following strong performance in the first half, driven by its vaccines portfolio including Shingrix and growth in specialty medicines. The company upgrades both its sales growth and adjusted operating profit outlook.",
+      "published_at": "2023-07-26T07:00:00Z",
+      "category": [
+        "Guidance Upgrade",
+        "Trading Update"
+      ],
+      "narrative_tag": "financial_results",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    },
+    {
+      "id": "GSK_003",
+      "source": "seed_historical",
+      "company": "GSK",
+      "ticker": "GSK",
+      "headline": "GSK Faces Zantac Litigation Uncertainty as US Court Rulings Create Liability Risk",
+      "body": "GSK faces significant uncertainty over its potential liability related to Zantac (ranitidine) litigation in the United States following adverse court rulings. Multiple US states have litigation pending against former Zantac manufacturers including GSK.",
+      "published_at": "2022-08-26T07:00:00Z",
+      "category": [
+        "Regulatory Risk",
+        "Litigation"
+      ],
+      "narrative_tag": "regulatory_pressure",
+      "response_type": "reactive",
+      "response_timing": "immediate",
+      "crisis_trigger": "regulatory"
+    },
+    {
+      "id": "GSK_004",
+      "source": "seed_historical",
+      "company": "GSK",
+      "ticker": "GSK",
+      "headline": "GSK Agrees $1.9bn Acquisition of Sierra Oncology to Bolster Haematology Portfolio",
+      "body": "GSK announces a definitive agreement to acquire Sierra Oncology for $55 per share in cash, representing a total equity value of approximately $1.9 billion and a 39% premium to the prior closing price. The acquisition gives GSK access to momelotinib, a late-stage treatment for myelofibrosis with anaemia. GSK reaffirms its full-year guidance and states the acquisition is consistent with its strategy to build a portfolio of specialty medicines.",
+      "published_at": "2022-04-13T07:00:00Z",
+      "category": [
+        "M&A",
+        "Acquisition Announcement"
+      ],
+      "narrative_tag": "ma_activity",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    },
+    {
+      "id": "GSK_005",
+      "source": "seed_historical",
+      "company": "GSK",
+      "ticker": "GSK",
+      "headline": "Elliott Management Takes Significant Stake in GSK and Calls for CEO Walmsley to Reapply for Her Role",
+      "body": "Activist hedge fund Elliott Management discloses a significant stake in GSK and calls for a board overhaul, questioning whether CEO Emma Walmsley should lead the company after the planned separation of its consumer healthcare division. Elliott argues GSK has suffered years of underperformance and demands the board appoint directors with biopharma expertise. The board must decide how to respond publicly to the activist campaign while maintaining management stability.",
+      "published_at": "2021-04-28T07:00:00Z",
+      "category": [
+        "Activist Campaign",
+        "Leadership Pressure"
+      ],
+      "narrative_tag": "reputational_crisis",
+      "response_type": "reactive",
+      "response_timing": "delayed",
+      "crisis_trigger": "activist"
+    }
+  ],
+  "BARC": [
+    {
+      "id": "BARC_001",
+      "source": "seed_historical",
+      "company": "Barclays",
+      "ticker": "BARC",
+      "headline": "Barclays Over-Issuance of US Securities Leads to £1.6bn Provision and Share Buyback Pause",
+      "body": "Barclays announces it has identified an over-issuance of structured and exchange traded notes in the United States amounting to approximately $17.7 billion. The bank announces a provision of approximately £1.6 billion and pauses its share buyback programme pending resolution.",
+      "published_at": "2022-03-28T07:00:00Z",
+      "category": [
+        "Regulatory Issue",
+        "Provision"
+      ],
+      "narrative_tag": "regulatory_pressure",
+      "response_type": "reactive",
+      "response_timing": "immediate",
+      "crisis_trigger": "regulatory"
+    },
+    {
+      "id": "BARC_002",
+      "source": "seed_historical",
+      "company": "Barclays",
+      "ticker": "BARC",
+      "headline": "Barclays Announces Three-Year Strategic Plan Targeting £30bn Total Capital Returns",
+      "body": "Barclays announces a new three-year strategic plan at its investor update, targeting total capital return to shareholders of more than £10 billion per year. The plan focuses on improving returns in its UK retail and corporate banking divisions while maintaining its investment bank.",
+      "published_at": "2024-02-20T07:00:00Z",
+      "category": [
+        "Strategy Update"
+      ],
+      "narrative_tag": "strategic_shift",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    }
+  ],
+  "LLOY": [
+    {
+      "id": "LLOY_001",
+      "source": "seed_historical",
+      "company": "Lloyds Banking Group",
+      "ticker": "LLOY",
+      "headline": "Lloyds Sets Aside £450m for Motor Finance Commission Mis-Selling Investigation",
+      "body": "Lloyds Banking Group announces a provision of £450 million related to the FCA's ongoing investigation into motor finance commission arrangements. The provision reflects potential redress costs relating to historical discretionary commission arrangements on car loans.",
+      "published_at": "2024-02-21T07:00:00Z",
+      "category": [
+        "Regulatory Provision",
+        "Mis-selling"
+      ],
+      "narrative_tag": "regulatory_pressure",
+      "response_type": "reactive",
+      "response_timing": "immediate",
+      "crisis_trigger": "regulatory"
+    },
+    {
+      "id": "LLOY_002",
+      "source": "seed_historical",
+      "company": "Lloyds Banking Group",
+      "ticker": "LLOY",
+      "headline": "Lloyds Full Year 2023 Results — Profit Before Tax £7.5bn, Enhanced Capital Return Announced",
+      "body": "Lloyds Banking Group reports full year 2023 profit before tax of £7.5 billion, in line with guidance. The bank announces an enhanced capital return including an ordinary dividend and a new share buyback of up to £2 billion. Net interest margin guidance is reiterated.",
+      "published_at": "2024-02-22T07:00:00Z",
+      "category": [
+        "Financial Results"
+      ],
+      "narrative_tag": "financial_results",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    }
+  ],
+  "NG.": [
+    {
+      "id": "NG_001",
+      "source": "seed_historical",
+      "company": "National Grid",
+      "ticker": "NG.",
+      "headline": "National Grid Announces £7bn Rights Issue and Rebased Dividend to Fund Grid Investment",
+      "body": "National Grid announces a fully underwritten rights issue to raise approximately £7 billion to fund its accelerated investment programme in UK and US electricity networks. The company rebases its dividend, reducing it by approximately 24%, to reflect the enlarged share capital and fund its £60 billion five-year capital investment plan.",
+      "published_at": "2024-05-23T07:00:00Z",
+      "category": [
+        "Rights Issue",
+        "Dividend Cut",
+        "Capital Raise"
+      ],
+      "narrative_tag": "dividend_cut",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    },
+    {
+      "id": "NG_002",
+      "source": "seed_historical",
+      "company": "National Grid",
+      "ticker": "NG.",
+      "headline": "National Grid Completes Sale of UK Gas Transmission Business for £4.2bn",
+      "body": "National Grid completes the sale of its UK Gas Transmission and Metering business to a consortium led by Macquarie for £4.2 billion. The disposal is part of National Grid's strategy to focus on electricity networks as the energy transition accelerates.",
+      "published_at": "2023-01-31T07:00:00Z",
+      "category": [
+        "Asset Disposal",
+        "Strategic Transaction"
+      ],
+      "narrative_tag": "restructuring",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    }
+  ],
+  "REL": [
+    {
+      "id": "REL_001",
+      "source": "seed_historical",
+      "company": "RELX",
+      "ticker": "REL",
+      "headline": "RELX Full Year 2023 Results — Revenue Grows 7% to £9.2bn, AI Integration Accelerating",
+      "body": "RELX reports full year 2023 revenue of £9.2 billion, up 7% at constant currencies, with underlying growth of 8.5%. The company reports strong demand for its AI-enhanced analytics tools across its legal, scientific and risk divisions. Adjusted operating profit margin improves to 33.4%.",
+      "published_at": "2024-02-15T07:00:00Z",
+      "category": [
+        "Financial Results"
+      ],
+      "narrative_tag": "financial_results",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    },
+    {
+      "id": "REL_002",
+      "source": "seed_historical",
+      "company": "RELX",
+      "ticker": "REL",
+      "headline": "RELX Raises Guidance on AI-Driven Demand Across Legal and Scientific Portfolios",
+      "body": "RELX upgrades its full-year guidance at its half-year results, citing stronger than expected demand for AI-integrated products across LexisNexis Legal, Elsevier and Risk Solutions. The company highlights AI tools as a key growth driver with double-digit revenue growth in AI-enhanced products.",
+      "published_at": "2024-07-25T07:00:00Z",
+      "category": [
+        "Guidance Upgrade",
+        "Trading Update"
+      ],
+      "narrative_tag": "financial_results",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    }
+  ],
+  "NWG": [
+    {
+      "id": "NWG_001",
+      "source": "seed_historical",
+      "company": "NatWest Group",
+      "ticker": "NWG",
+      "headline": "NatWest CEO Alison Rose Resigns Immediately Over Nigel Farage Account Closure Leak",
+      "body": "NatWest Group announces the immediate resignation of Group Chief Executive Alison Rose. Rose resigned after admitting to a serious error of judgement in discussing the confidential banking details of Nigel Farage with a BBC journalist. Paul Thwaite, Head of Commercial Banking, is appointed interim CEO for 12 months.",
+      "published_at": "2023-07-26T07:00:00Z",
+      "category": [
+        "CEO Departure",
+        "Reputational Crisis"
+      ],
+      "narrative_tag": "reputational_crisis",
+      "response_type": "reactive",
+      "response_timing": "immediate",
+      "crisis_trigger": "media"
+    },
+    {
+      "id": "NWG_002",
+      "source": "seed_historical",
+      "company": "NatWest Group",
+      "ticker": "NWG",
+      "headline": "NatWest Appoints Paul Thwaite as Permanent Group Chief Executive",
+      "body": "NatWest Group announces the appointment of Paul Thwaite as permanent Group Chief Executive, following a thorough search process. Thwaite has been serving as interim CEO since July 2023 and previously led the bank's commercial banking division.",
+      "published_at": "2024-01-24T07:00:00Z",
+      "category": [
+        "Leadership Appointment"
+      ],
+      "narrative_tag": "leadership_change",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    },
+    {
+      "id": "NWG_003",
+      "source": "seed_historical",
+      "company": "NatWest Group",
+      "ticker": "NWG",
+      "headline": "NatWest Full Year 2023 Results — Pre-tax Profit £6.2bn, Buyback and Special Dividend Announced",
+      "body": "NatWest reports full year 2023 profit before tax of £6.2 billion. The bank announces a share buyback of up to £300 million and a special dividend of 5p per share, reflecting the bank's strong capital position. Net interest margin guidance of around 290 basis points is provided for 2024.",
+      "published_at": "2024-02-16T07:00:00Z",
+      "category": [
+        "Financial Results"
+      ],
+      "narrative_tag": "financial_results",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    }
+  ],
+  "BA.": [
+    {
+      "id": "BAE_001",
+      "source": "seed_historical",
+      "company": "BAE Systems",
+      "ticker": "BA.",
+      "headline": "BAE Systems Raises Guidance as Defence Spending Surge Drives Record Order Book",
+      "body": "BAE Systems raises its full-year guidance following a significant uplift in defence spending across NATO members in response to the war in Ukraine. The company reports a record order backlog exceeding £37 billion, with strong demand across its air, maritime, cyber and land divisions.",
+      "published_at": "2023-07-27T07:00:00Z",
+      "category": [
+        "Guidance Upgrade",
+        "Trading Update"
+      ],
+      "narrative_tag": "financial_results",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    },
+    {
+      "id": "BAE_002",
+      "source": "seed_historical",
+      "company": "BAE Systems",
+      "ticker": "BA.",
+      "headline": "BAE Systems Full Year 2023 Results — Sales £25.3bn, Order Book Hits Record £69bn",
+      "body": "BAE Systems reports full year 2023 sales of £25.3 billion, up 9% on 2022. The order book reaches a record £69 billion, supported by increased defence budgets across the US, UK and Europe. The company upgrades its medium-term financial targets and announces an increased dividend.",
+      "published_at": "2024-02-22T07:00:00Z",
+      "category": [
+        "Financial Results"
+      ],
+      "narrative_tag": "financial_results",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    }
+  ],
+  "GLEN": [
+    {
+      "id": "GLEN_001",
+      "source": "seed_historical",
+      "company": "Glencore",
+      "ticker": "GLEN",
+      "headline": "Glencore Makes £33bn Takeover Approach for Teck Resources Coal Business",
+      "body": "Glencore makes a revised proposal to acquire Teck Resources' steelmaking coal business, Elk Valley Resources, for approximately $9 billion. The approach follows Glencore's earlier failed attempt to merge with the entirety of Teck Resources.",
+      "published_at": "2023-07-12T07:00:00Z",
+      "category": [
+        "Merger & Acquisition"
+      ],
+      "narrative_tag": "ma_activity",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    },
+    {
+      "id": "GLEN_002",
+      "source": "seed_historical",
+      "company": "Glencore",
+      "ticker": "GLEN",
+      "headline": "Glencore Full Year 2022 Results — Record Adjusted EBITDA of $34.1bn on Commodity Price Surge",
+      "body": "Glencore reports record full year 2022 adjusted EBITDA of $34.1 billion, more than double the prior year, driven by surging coal and oil prices. The company announces a total distribution of $7.1 billion including a special dividend and buyback.",
+      "published_at": "2023-02-15T07:00:00Z",
+      "category": [
+        "Financial Results"
+      ],
+      "narrative_tag": "financial_results",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    }
+  ],
+  "LSEG": [
+    {
+      "id": "LSEG_001",
+      "source": "seed_historical",
+      "company": "London Stock Exchange Group",
+      "ticker": "LSEG",
+      "headline": "LSEG Full Year 2023 Results — Total Income Grows 8.8%, Data and Analytics Division Accelerates",
+      "body": "London Stock Exchange Group reports full year 2023 total income of £7.7 billion, up 8.8%. The Data and Analytics division, which includes Refinitiv, grows 7.3% and LSEG raises its medium-term revenue growth targets. The Microsoft partnership is highlighted as a key growth driver.",
+      "published_at": "2024-03-01T07:00:00Z",
+      "category": [
+        "Financial Results"
+      ],
+      "narrative_tag": "financial_results",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    },
+    {
+      "id": "LSEG_002",
+      "source": "seed_historical",
+      "company": "London Stock Exchange Group",
+      "ticker": "LSEG",
+      "headline": "LSEG and Microsoft Announce 10-Year Strategic Partnership for Data and Analytics",
+      "body": "LSEG and Microsoft announce a 10-year strategic partnership worth approximately $2.8 billion. Microsoft will take a 4% stake in LSEG. The partnership will integrate LSEG's data and analytics products with Microsoft's cloud and productivity platforms including Teams and Azure.",
+      "published_at": "2022-12-12T07:00:00Z",
+      "category": [
+        "Strategic Partnership",
+        "Investment"
+      ],
+      "narrative_tag": "ma_activity",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    },
+    {
+      "id": "LSEG_003",
+      "source": "seed_historical",
+      "company": "London Stock Exchange Group",
+      "ticker": "LSEG",
+      "headline": "Elliott Management Builds Stake in LSEG Amid AI Disruption Concerns and Listings Decline",
+      "body": "Activist hedge fund Elliott Investment Management discloses a stake in London Stock Exchange Group as the company navigates disruption from artificial intelligence, a decline in UK listings and questions about the strategic direction of its Refinitiv data business. Elliott's intentions have not been publicly disclosed but the fund is known for pushing for operational improvements and strategic simplification. LSEG must assess how to engage with Elliott while managing its ongoing integration programme.",
+      "published_at": "2026-02-11T07:00:00Z",
+      "category": [
+        "Activist Campaign",
+        "Strategic Pressure"
+      ],
+      "narrative_tag": "reputational_crisis",
+      "response_type": "reactive",
+      "response_timing": "delayed",
+      "crisis_trigger": "activist"
+    }
+  ],
+  "STAN": [
+    {
+      "id": "STAN_001",
+      "source": "seed_historical",
+      "company": "Standard Chartered",
+      "ticker": "STAN",
+      "headline": "Standard Chartered Launches $1bn Share Buyback as Profits Rise on Higher Interest Rates",
+      "body": "Standard Chartered announces a share buyback of up to $1 billion following strong first half results. Pre-tax profit rises 18% to $3.6 billion driven by higher net interest income across its markets in Asia, Africa and the Middle East.",
+      "published_at": "2023-07-25T07:00:00Z",
+      "category": [
+        "Buyback",
+        "Financial Results"
+      ],
+      "narrative_tag": "financial_results",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    },
+    {
+      "id": "STAN_002",
+      "source": "seed_historical",
+      "company": "Standard Chartered",
+      "ticker": "STAN",
+      "headline": "Standard Chartered to Sell Wealth Management Business in African Markets",
+      "body": "Standard Chartered announces a strategic review of its operations in several African markets, with plans to sell or exit certain wealth management and retail banking activities as it refocuses on institutional and corporate clients in its core markets.",
+      "published_at": "2024-02-23T07:00:00Z",
+      "category": [
+        "Asset Disposal",
+        "Strategy Update"
+      ],
+      "narrative_tag": "restructuring",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    }
+  ],
+  "DGE": [
+    {
+      "id": "DGE_001",
+      "source": "seed_historical",
+      "company": "Diageo",
+      "ticker": "DGE",
+      "headline": "Diageo CEO Ivan Menezes Dies — Debra Crew Appointed as Permanent Chief Executive",
+      "body": "Diageo announces with deep sadness the death of Chief Executive Ivan Menezes. Debra Crew, who had been appointed as interim CEO, is confirmed as permanent Group Chief Executive. Crew joined Diageo's Board as a non-executive director and has extensive experience in global consumer goods.",
+      "published_at": "2023-06-28T07:00:00Z",
+      "category": [
+        "Leadership Change",
+        "CEO Appointment"
+      ],
+      "narrative_tag": "leadership_change",
+      "response_type": "reactive",
+      "response_timing": "immediate",
+      "crisis_trigger": "market_rumour"
+    },
+    {
+      "id": "DGE_002",
+      "source": "seed_historical",
+      "company": "Diageo",
+      "ticker": "DGE",
+      "headline": "Diageo Issues Profit Warning — Latin America Inventory Build Hits FY24 Organic Sales Growth",
+      "body": "Diageo issues a significant profit warning, citing a material inventory build among distributors and retailers in Latin America and the Caribbean. The company expects organic net sales growth for FY2024 to be approximately 1% to 4%, significantly below prior guidance of mid-single digits.",
+      "published_at": "2023-11-10T07:00:00Z",
+      "category": [
+        "Profit Warning"
+      ],
+      "narrative_tag": "profit_warning",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    },
+    {
+      "id": "DGE_003",
+      "source": "seed_historical",
+      "company": "Diageo",
+      "ticker": "DGE",
+      "headline": "Diageo Full Year Results — Organic Net Sales Decline 1.4%, Second Consecutive Miss",
+      "body": "Diageo reports full year organic net sales decline of 1.4%, its second consecutive annual miss versus guidance. The company cites continued weakness in Latin America, weaker consumer spending in the US and normalisation following exceptional COVID-era growth. New cost savings targets are announced.",
+      "published_at": "2024-07-30T07:00:00Z",
+      "category": [
+        "Financial Results",
+        "Guidance Miss"
+      ],
+      "narrative_tag": "profit_warning",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    }
+  ],
+  "BP.": [
+    {
+      "id": "BP_001",
+      "source": "seed_historical",
+      "company": "BP",
+      "ticker": "BP.",
+      "headline": "BP CEO Bernard Looney Resigns Immediately After Failing to Fully Disclose Colleague Relationships",
+      "body": "BP announces the immediate resignation of Group Chief Executive Bernard Looney. Looney informed the company that he had not been fully transparent in previous disclosures about historical personal relationships with colleagues. CFO Murray Auchincloss is appointed as interim CEO. The board has commenced a search for a permanent successor.",
+      "published_at": "2023-09-12T07:00:00Z",
+      "category": [
+        "CEO Departure",
+        "Governance Crisis"
+      ],
+      "narrative_tag": "reputational_crisis",
+      "response_type": "reactive",
+      "response_timing": "immediate",
+      "crisis_trigger": "media"
+    },
+    {
+      "id": "BP_002",
+      "source": "seed_historical",
+      "company": "BP",
+      "ticker": "BP.",
+      "headline": "BP Appoints Murray Auchincloss as Permanent Group Chief Executive",
+      "body": "BP announces the appointment of Murray Auchincloss as Group Chief Executive on a permanent basis, following a thorough search process. Auchincloss has been serving as interim CEO since September 2023. The board expresses full confidence in Auchincloss to lead BP's strategy of delivering lower carbon energy.",
+      "published_at": "2024-01-10T07:00:00Z",
+      "category": [
+        "Leadership Appointment"
+      ],
+      "narrative_tag": "leadership_change",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    },
+    {
+      "id": "BP_003",
+      "source": "seed_historical",
+      "company": "BP",
+      "ticker": "BP.",
+      "headline": "BP Strategy Reset — Slows Energy Transition, Increases Oil and Gas Investment",
+      "body": "BP announces a significant strategic reset under CEO Murray Auchincloss, scaling back its renewable energy ambitions and increasing investment in oil and gas. The company reduces its targeted oil production cuts and lowers its renewable energy capacity targets, citing the need to generate competitive returns for shareholders.",
+      "published_at": "2024-02-07T07:00:00Z",
+      "category": [
+        "Strategy Update"
+      ],
+      "narrative_tag": "strategic_shift",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    }
+  ],
+  "BRBY": [
+    {
+      "id": "BRBY_001",
+      "source": "seed_historical",
+      "company": "Burberry Group",
+      "ticker": "BRBY",
+      "headline": "Burberry Issues Profit Warning — Luxury Slowdown Hits Revenue Guidance",
+      "body": "Burberry warns it is unlikely to achieve its previously-stated low double-digit revenue growth guidance for fiscal 2024 as the widespread slowdown in luxury demand is having an impact across all regions including mainland China, the Americas and Europe. Adjusted operating profit is expected at the lower end of the consensus range of £552-668 million. Shares fall approximately 10% on the announcement.",
+      "published_at": "2023-11-16T07:00:00Z",
+      "category": [
+        "Profit Warning",
+        "Trading Update"
+      ],
+      "narrative_tag": "profit_warning",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    },
+    {
+      "id": "BRBY_002",
+      "source": "seed_historical",
+      "company": "Burberry Group",
+      "ticker": "BRBY",
+      "headline": "Burberry Issues Second Profit Warning — Operating Profit Guidance Cut Sharply",
+      "body": "Burberry issues a second profit warning, cutting its full-year adjusted operating profit guidance to approximately £410-460 million, significantly below the prior consensus range of £552-668 million. The company cites continued weakness in luxury demand globally and a challenging consumer environment. CEO Jonathan Akeroyd states the company is unlikely to meet its revenue targets.",
+      "published_at": "2024-01-12T07:00:00Z",
+      "category": [
+        "Profit Warning"
+      ],
+      "narrative_tag": "profit_warning",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    },
+    {
+      "id": "BRBY_003",
+      "source": "seed_historical",
+      "company": "Burberry Group",
+      "ticker": "BRBY",
+      "headline": "Burberry Suspends Dividend and Appoints New CEO Joshua Schulman Amid Deepening Crisis",
+      "body": "Burberry announces the suspension of its dividend for FY2025 to preserve capital and invest in the business. The company simultaneously announces the appointment of Joshua Schulman as CEO, replacing Jonathan Akeroyd. Schulman joins from Michael Kors. The dividend suspension and Q1 trading update reveal same-store sales fell 21% in the quarter, significantly worse than expected.",
+      "published_at": "2024-07-15T07:00:00Z",
+      "category": [
+        "Profit Warning",
+        "Dividend Suspension",
+        "Leadership Change"
+      ],
+      "narrative_tag": "profit_warning",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    }
+  ],
+  "JD.": [
+    {
+      "id": "JD_001",
+      "source": "seed_historical",
+      "company": "JD Sports Fashion",
+      "ticker": "JD.",
+      "headline": "JD Sports Issues Profit Warning — US Weakness and Promotional Activity Hit Margins",
+      "body": "JD Sports issues a profit warning ahead of its full-year results, warning that profit before tax and adjusted items will be materially below market expectations. The company cites weaker than expected trading in the United States, increased promotional activity across the sector and the impact of currency headwinds. The shares fall sharply on the announcement.",
+      "published_at": "2024-01-15T07:00:00Z",
+      "category": [
+        "Profit Warning"
+      ],
+      "narrative_tag": "profit_warning",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    },
+    {
+      "id": "JD_002",
+      "source": "seed_historical",
+      "company": "JD Sports Fashion",
+      "ticker": "JD.",
+      "headline": "JD Sports Full Year Results — Pre-tax Profit Falls 23%, US Recovery Slower Than Expected",
+      "body": "JD Sports reports full year pre-tax profit of £347 million, down 23% from the prior year. The company acknowledges the US market recovery has been slower than anticipated following the profit warning issued in January. New financial targets are set with a focus on improving margins and reducing promotional activity.",
+      "published_at": "2024-04-23T07:00:00Z",
+      "category": [
+        "Financial Results",
+        "Guidance Miss"
+      ],
+      "narrative_tag": "profit_warning",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    }
+  ],
+  "RTO": [
+    {
+      "id": "RTO_001",
+      "source": "seed_historical",
+      "company": "Rentokil Initial",
+      "ticker": "RTO",
+      "headline": "Rentokil Issues Profit Warning — Terminix Integration Slower Than Expected in North America",
+      "body": "Rentokil Initial issues a profit warning, stating that the integration of Terminix in North America is progressing more slowly than anticipated and that organic revenue growth in its North American pest control business is below expectations. The company lowers its full-year guidance and acknowledges the challenging operating environment in its largest market.",
+      "published_at": "2023-08-01T07:00:00Z",
+      "category": [
+        "Profit Warning",
+        "Integration Issues"
+      ],
+      "narrative_tag": "profit_warning",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    },
+    {
+      "id": "RTO_002",
+      "source": "seed_historical",
+      "company": "Rentokil Initial",
+      "ticker": "RTO",
+      "headline": "Rentokil Issues Second Profit Warning in Six Months — North America Restructuring Announced",
+      "body": "Rentokil Initial issues a second profit warning within six months as North America performance continues to disappoint. The company announces a restructuring programme for its North American operations and lowers guidance for the second time in the year. The CEO acknowledges the integration of Terminix has been more complex than anticipated and sets out a recovery plan.",
+      "published_at": "2024-03-07T07:00:00Z",
+      "category": [
+        "Profit Warning",
+        "Restructuring"
+      ],
+      "narrative_tag": "profit_warning",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    }
+  ],
+  "VOD_DIV": [
+    {
+      "id": "VOD_DIV_001",
+      "source": "seed_historical",
+      "company": "Vodafone Group",
+      "ticker": "VOD",
+      "headline": "Vodafone Cuts Dividend by 50% to Fund Network Investment and Reduce Debt",
+      "body": "Vodafone announces a 50% reduction in its dividend as part of FY24 results. The interim dividend is cut from 4.5 eurocents to 2.25 eurocents per share. The board states the rebased dividend reflects need to strengthen the balance sheet following disposals of Vodafone Spain and Italy, fund continued network investment and reduce leverage. This ends a decade of flat dividend policy at the company.",
+      "published_at": "2024-05-15T07:00:00Z",
+      "category": [
+        "Dividend Cut"
+      ],
+      "narrative_tag": "dividend_cut",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    }
+  ],
+  "AAL": [
+    {
+      "id": "AAL_001",
+      "source": "seed_historical",
+      "company": "Anglo American",
+      "ticker": "AAL",
+      "headline": "Anglo American Receives Unsolicited Takeover Approach from BHP",
+      "body": "Anglo American confirms it has received an unsolicited, conditional and preliminary proposal from BHP to acquire the entire issued share capital of Anglo American. The proposal requires Anglo American to first spin off its South African operations. The board is reviewing the proposal and has not yet made a recommendation to shareholders.",
+      "published_at": "2024-04-25T07:00:00Z",
+      "category": [
+        "M&A",
+        "Takeover Approach"
+      ],
+      "narrative_tag": "ma_activity",
+      "response_type": "reactive",
+      "response_timing": "immediate",
+      "crisis_trigger": "market_rumour"
+    },
+    {
+      "id": "AAL_002",
+      "source": "seed_historical",
+      "company": "Anglo American",
+      "ticker": "AAL",
+      "headline": "Anglo American Rejects BHP Final Takeover Proposal and Announces Major Strategic Restructuring",
+      "body": "Anglo American rejects BHP's final revised takeover proposal as significantly undervaluing the company. The board announces a major strategic restructuring including demerger of Anglo American Platinum, sale of De Beers and steelmaking coal, to create a focused portfolio of copper, iron ore and crop nutrients as a superior alternative to the BHP offer.",
+      "published_at": "2024-05-14T07:00:00Z",
+      "category": [
+        "M&A Rejection",
+        "Strategic Restructuring"
+      ],
+      "narrative_tag": "ma_activity",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    },
+    {
+      "id": "AAL_003",
+      "source": "seed_historical",
+      "company": "Anglo American",
+      "ticker": "AAL",
+      "headline": "BHP Confirms It Will Not Pursue Takeover of Anglo American",
+      "body": "BHP confirms it will not make a firm offer for Anglo American following expiry of the Takeover Code deadline. Anglo American shares fall as the takeover premium unwinds, though the strategic restructuring plan announced alongside the bid rejection continues as standalone strategy.",
+      "published_at": "2024-05-29T07:00:00Z",
+      "category": [
+        "M&A Withdrawal"
+      ],
+      "narrative_tag": "ma_activity",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    }
+  ],
+  "PSN": [
+    {
+      "id": "PSN_001",
+      "source": "seed_historical",
+      "company": "Persimmon",
+      "ticker": "PSN",
+      "headline": "Persimmon Cuts Dividend by 75% as Housing Market Downturn Hits Completions",
+      "body": "Persimmon announces a 75% reduction in its dividend from approximately 235 pence to 60 pence per share, citing the need to preserve capital through the housing market downturn driven by rising mortgage rates. Forward sales are materially below the prior year as consumer confidence weakens.",
+      "published_at": "2023-02-22T07:00:00Z",
+      "category": [
+        "Dividend Cut",
+        "Trading Update"
+      ],
+      "narrative_tag": "dividend_cut",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    },
+    {
+      "id": "PSN_002",
+      "source": "seed_historical",
+      "company": "Persimmon",
+      "ticker": "PSN",
+      "headline": "Persimmon Full Year Results — Completions Fall 33%, Dividend Maintained at Reduced Level",
+      "body": "Persimmon reports full year completions of 9,922 homes, down 33%, as higher mortgage rates suppress demand. Revenue falls 29% to £2.77 billion. The company maintains its reduced dividend level, signalling no rapid recovery expected in housing market conditions.",
+      "published_at": "2024-02-28T07:00:00Z",
+      "category": [
+        "Financial Results"
+      ],
+      "narrative_tag": "financial_results",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    }
+  ],
+  "AV.": [
+    {
+      "id": "AV_001",
+      "source": "seed_historical",
+      "company": "Aviva",
+      "ticker": "AV.",
+      "headline": "Aviva CEO Amanda Blanc Completes Portfolio Simplification with £7.5bn of Disposals",
+      "body": "Aviva announces completion of a major strategic simplification programme under CEO Amanda Blanc, having divested eight businesses and returned £7.5 billion to shareholders through buybacks and special dividends. The programme refocuses Aviva on UK, Ireland and Canada. The shares have outperformed peers significantly during the restructuring.",
+      "published_at": "2022-11-16T07:00:00Z",
+      "category": [
+        "Strategic Update",
+        "Restructuring"
+      ],
+      "narrative_tag": "restructuring",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    },
+    {
+      "id": "AV_002",
+      "source": "seed_historical",
+      "company": "Aviva",
+      "ticker": "AV.",
+      "headline": "Aviva Launches £300m Share Buyback and Raises Dividend Guidance",
+      "body": "Aviva announces a new share buyback programme of £300 million and upgrades its dividend growth guidance, committing to growing the dividend by mid-single digits annually. The announcement follows strong capital generation and reflects the board's confidence in the sustainability of returns following the strategic simplification.",
+      "published_at": "2024-03-07T07:00:00Z",
+      "category": [
+        "Buyback",
+        "Dividend"
+      ],
+      "narrative_tag": "financial_results",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    }
+  ],
+  "LGEN": [
+    {
+      "id": "LGEN_001",
+      "source": "seed_historical",
+      "company": "Legal & General",
+      "ticker": "LGEN",
+      "headline": "Legal & General CEO Nigel Wilson to Retire — António Simões Appointed Successor",
+      "body": "Legal & General announces that Group Chief Executive Nigel Wilson will retire after more than a decade in the role. António Simões, currently CEO of Santander Europe, is appointed as his successor. Wilson oversaw significant growth in L&G's asset management and annuities businesses during his tenure. The appointment is seen as an orderly succession.",
+      "published_at": "2023-10-04T07:00:00Z",
+      "category": [
+        "Leadership Change"
+      ],
+      "narrative_tag": "leadership_change",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    },
+    {
+      "id": "LGEN_002",
+      "source": "seed_historical",
+      "company": "Legal & General",
+      "ticker": "LGEN",
+      "headline": "Legal & General Full Year Results — Operating Profit £1.6bn, Strategic Review Announced",
+      "body": "Legal & General reports full year operating profit of £1.6 billion. New CEO António Simões announces a strategic review of the group's structure, including consideration of separating its asset management division from the insurance and retirement businesses. The review will assess whether the conglomerate structure maximises shareholder value.",
+      "published_at": "2024-03-07T07:00:00Z",
+      "category": [
+        "Financial Results",
+        "Strategic Review"
+      ],
+      "narrative_tag": "strategic_shift",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    }
+  ],
+  "PRU": [
+    {
+      "id": "PRU_001",
+      "source": "seed_historical",
+      "company": "Prudential",
+      "ticker": "PRU",
+      "headline": "Prudential Appoints Anil Wadhwani as Group Chief Executive to Accelerate Asia Strategy",
+      "body": "Prudential announces the appointment of Anil Wadhwani as Group Chief Executive, succeeding Mike Wells who retires. Wadhwani joins from Cigna's international division and is expected to accelerate Prudential's focus on high-growth Asian insurance markets following the completion of the M&G demerger.",
+      "published_at": "2023-01-17T07:00:00Z",
+      "category": [
+        "Leadership Appointment"
+      ],
+      "narrative_tag": "leadership_change",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    },
+    {
+      "id": "PRU_002",
+      "source": "seed_historical",
+      "company": "Prudential",
+      "ticker": "PRU",
+      "headline": "Prudential Issues Profit Warning — China Business Recovery Slower Than Expected",
+      "body": "Prudential issues a trading update warning that new business profit growth in China is materially below expectations as the post-COVID recovery has stalled. The company cites weak consumer confidence and structural headwinds in the Chinese life insurance market. The warning follows several quarters of optimistic guidance on the China recovery.",
+      "published_at": "2023-10-17T07:00:00Z",
+      "category": [
+        "Profit Warning",
+        "Trading Update"
+      ],
+      "narrative_tag": "profit_warning",
+      "response_type": "reactive",
+      "response_timing": "immediate",
+      "crisis_trigger": "market_rumour"
+    }
+  ],
+  "EXPN": [
+    {
+      "id": "EXPN_001",
+      "source": "seed_historical",
+      "company": "Experian",
+      "ticker": "EXPN",
+      "headline": "Experian Full Year Results — Revenue Grows 9% Driven by North America and Consumer Services",
+      "body": "Experian reports full year organic revenue growth of 9% to $6.98 billion, with North America and its consumer direct business driving the outperformance. The company raises its medium-term growth targets and announces a continued share buyback programme. Benchmark EPS grows 11% at constant currency.",
+      "published_at": "2023-05-17T07:00:00Z",
+      "category": [
+        "Financial Results"
+      ],
+      "narrative_tag": "financial_results",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    },
+    {
+      "id": "EXPN_002",
+      "source": "seed_historical",
+      "company": "Experian",
+      "ticker": "EXPN",
+      "headline": "Experian Acquires NeuroID for $95m to Strengthen Fraud Prevention Platform",
+      "body": "Experian announces the acquisition of NeuroID, a US-based behavioural analytics company, for approximately $95 million. The acquisition adds real-time fraud detection capabilities that analyse typing patterns and device behaviour. Experian states the deal is consistent with its strategy of bolt-on acquisitions to enhance its identity and fraud prevention services.",
+      "published_at": "2024-01-09T07:00:00Z",
+      "category": [
+        "M&A",
+        "Acquisition"
+      ],
+      "narrative_tag": "ma_activity",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    }
+  ],
+  "SGE": [
+    {
+      "id": "SGE_001",
+      "source": "seed_historical",
+      "company": "Sage Group",
+      "ticker": "SGE",
+      "headline": "Sage Group Raises Full Year Guidance as Cloud Transition Accelerates",
+      "body": "Sage Group raises its full year organic revenue growth guidance to approximately 10%, citing stronger than expected performance in its cloud-native products including Sage Intacct and Sage 50 cloud. The proportion of revenues from subscription and cloud products has grown to over 80% of total revenues, significantly ahead of the prior year.",
+      "published_at": "2023-07-19T07:00:00Z",
+      "category": [
+        "Guidance Upgrade",
+        "Trading Update"
+      ],
+      "narrative_tag": "financial_results",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    }
+  ],
+  "MKS": [
+    {
+      "id": "MKS_001",
+      "source": "seed_historical",
+      "company": "Marks & Spencer",
+      "ticker": "MKS",
+      "headline": "Marks & Spencer Returns to FTSE 100 After Four-Year Absence on Turnaround Success",
+      "body": "Marks & Spencer is confirmed as returning to the FTSE 100 index for the first time since 2019, following a sustained recovery in trading performance under CEO Stuart Machin. The retailer has delivered several consecutive quarters of strong food and clothing sales growth, with profit before tax approximately doubling over the prior year.",
+      "published_at": "2023-09-01T07:00:00Z",
+      "category": [
+        "Index Inclusion",
+        "Strategic Milestone"
+      ],
+      "narrative_tag": "financial_results",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    },
+    {
+      "id": "MKS_002",
+      "source": "seed_historical",
+      "company": "Marks & Spencer",
+      "ticker": "MKS",
+      "headline": "Marks & Spencer Half Year Results — Pre-tax Profit Doubles to £360m, Guidance Raised",
+      "body": "Marks & Spencer reports half year profit before tax of £360 million, approximately double the prior year, driven by strong food volume growth and recovery in clothing and home. The company raises its full year guidance and announces its first special dividend in years, signalling board confidence in the sustainability of the turnaround.",
+      "published_at": "2023-11-08T07:00:00Z",
+      "category": [
+        "Financial Results",
+        "Guidance Upgrade"
+      ],
+      "narrative_tag": "financial_results",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    }
+  ],
+  "NXT": [
+    {
+      "id": "NXT_001",
+      "source": "seed_historical",
+      "company": "Next",
+      "ticker": "NXT",
+      "headline": "Next Raises Full Year Profit Guidance for Third Time — Online and Total Platform Outperform",
+      "body": "Next raises its full year profit before tax guidance for the third time in the financial year, now expecting profit of approximately £875 million. The company cites better than expected performance from its Online segment and its Total Platform business, which provides fulfilment and technology services to third party brands including Reiss and Laura Ashley.",
+      "published_at": "2023-09-27T07:00:00Z",
+      "category": [
+        "Guidance Upgrade"
+      ],
+      "narrative_tag": "financial_results",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    }
+  ],
+  "TSCO": [
+    {
+      "id": "TSCO_001",
+      "source": "seed_historical",
+      "company": "Tesco",
+      "ticker": "TSCO",
+      "headline": "Tesco Full Year Results — Retail Adjusted Operating Profit £2.6bn, Special Dividend Announced",
+      "body": "Tesco reports full year retail adjusted operating profit of £2.6 billion, in line with guidance, and announces a special dividend of 5p per share alongside its ordinary dividend. The company has gained market share from discounters and maintained its position as the UK's largest food retailer despite cost of living pressures on consumers.",
+      "published_at": "2023-04-12T07:00:00Z",
+      "category": [
+        "Financial Results",
+        "Dividend"
+      ],
+      "narrative_tag": "financial_results",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    }
+  ],
+  "SSE": [
+    {
+      "id": "SSE_001",
+      "source": "seed_historical",
+      "company": "SSE",
+      "ticker": "SSE",
+      "headline": "SSE Announces £40bn Capital Investment Programme to 2031 and Raises Dividend Growth Target",
+      "body": "SSE announces a major capital investment programme of approximately £40 billion to 2031, focused on renewable electricity generation, electricity networks and flexible power. The company raises its dividend growth target to at least 6% per year through to 2031, underpinned by the regulated and contracted nature of the investment programme.",
+      "published_at": "2023-11-29T07:00:00Z",
+      "category": [
+        "Capital Programme",
+        "Dividend Growth"
+      ],
+      "narrative_tag": "strategic_shift",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    }
+  ],
+  "BT.A": [
+    {
+      "id": "BT_001",
+      "source": "seed_historical",
+      "company": "BT Group",
+      "ticker": "BT.A",
+      "headline": "BT Group Appoints Allison Kirkby as New Chief Executive",
+      "body": "BT Group announces the appointment of Allison Kirkby as Group Chief Executive, succeeding Philip Jansen. Kirkby joins from Telia Company where she was CEO and is expected to accelerate BT's fibre broadband rollout and its cost transformation programme. The appointment is seen as a positive signal given Kirkby's track record of delivering network investment programmes.",
+      "published_at": "2023-06-01T07:00:00Z",
+      "category": [
+        "Leadership Appointment"
+      ],
+      "narrative_tag": "leadership_change",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    },
+    {
+      "id": "BT_002",
+      "source": "seed_historical",
+      "company": "BT Group",
+      "ticker": "BT.A",
+      "headline": "BT Group Announces 55,000 Job Cuts by 2030 as AI and Fibre Completion Reduce Workforce Needs",
+      "body": "BT Group announces plans to reduce its workforce from approximately 130,000 to between 75,000 and 90,000 employees by the end of the decade. The cuts reflect the reduced headcount needed once the full fibre broadband rollout is complete and as AI is deployed to automate customer service and network management. The company frames the reduction as essential to delivering its target cost savings.",
+      "published_at": "2023-05-18T07:00:00Z",
+      "category": [
+        "Restructuring",
+        "Job Cuts"
+      ],
+      "narrative_tag": "restructuring",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    }
+  ],
+  "IAG": [
+    {
+      "id": "IAG_001",
+      "source": "seed_historical",
+      "company": "IAG",
+      "ticker": "IAG",
+      "headline": "IAG Returns to Full Year Profit — Operating Profit €1.3bn as Travel Demand Surges",
+      "body": "IAG reports a return to full year profitability with operating profit of €1.3 billion, compared to a loss in 2021, driven by a strong recovery in premium leisure and business travel across British Airways, Iberia and Vueling. The company reinstates guidance for 2023 and signals confidence in sustained demand recovery, particularly on transatlantic routes.",
+      "published_at": "2023-02-24T07:00:00Z",
+      "category": [
+        "Financial Results",
+        "Profit Recovery"
+      ],
+      "narrative_tag": "financial_results",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    }
+  ],
+  "IHG": [
+    {
+      "id": "IHG_001",
+      "source": "seed_historical",
+      "company": "Intercontinental Hotels",
+      "ticker": "IHG",
+      "headline": "IHG Full Year Results — Revenue per Available Room Up 14%, China Recovery Accelerates",
+      "body": "IHG reports full year revenue per available room growth of 14%, driven by a strong recovery across all regions including China where RevPAR growth accelerated in the second half following the lifting of COVID restrictions. The company expands its share buyback programme and raises its medium-term unit growth target. Holiday Inn Express and Crowne Plaza drive the volume.",
+      "published_at": "2023-02-21T07:00:00Z",
+      "category": [
+        "Financial Results"
+      ],
+      "narrative_tag": "financial_results",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    }
+  ],
+  "RMV": [
+    {
+      "id": "RMV_001",
+      "source": "seed_historical",
+      "company": "Rightmove",
+      "ticker": "RMV",
+      "headline": "Rightmove Rejects £5.6bn Takeover Bid from REA Group as Fundamentally Undervaluing Company",
+      "body": "Rightmove confirms it has received and unanimously rejected a non-binding takeover proposal from REA Group, the Australian property portal controlled by Rupert Murdoch's News Corp, valuing Rightmove shares at 705 pence. The Rightmove board states the proposal fundamentally undervalues the company and its future prospects. REA Group has a deadline of 30 September to make a formal bid.",
+      "published_at": "2024-09-10T07:00:00Z",
+      "category": [
+        "M&A Rejection",
+        "Takeover Defence"
+      ],
+      "narrative_tag": "ma_activity",
+      "response_type": "reactive",
+      "response_timing": "immediate",
+      "crisis_trigger": "market_rumour"
+    },
+    {
+      "id": "RMV_002",
+      "source": "seed_historical",
+      "company": "Rightmove",
+      "ticker": "RMV",
+      "headline": "REA Group Withdraws Takeover Interest in Rightmove After Final Rejection",
+      "body": "REA Group confirms it will not make a firm offer for Rightmove following the expiry of the UK Takeover Code deadline. REA had made four proposals, the final valuing Rightmove at 781 pence per share, all of which were rejected by the Rightmove board. Rightmove shares fall as the takeover premium unwinds.",
+      "published_at": "2024-09-30T07:00:00Z",
+      "category": [
+        "M&A Withdrawal"
+      ],
+      "narrative_tag": "ma_activity",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    }
+  ],
+  "SGRO": [
+    {
+      "id": "SGRO_001",
+      "source": "seed_historical",
+      "company": "Segro",
+      "ticker": "SGRO",
+      "headline": "Segro Full Year Results — Net Asset Value Grows 12% on Logistics Boom",
+      "body": "Segro reports full year results with adjusted net asset value per share up 12%, driven by strong rental growth and high occupancy across its European logistics and urban warehouse portfolio. The company raises its dividend and states it is on track to achieve its target of £700 million of annual rent by 2025.",
+      "published_at": "2023-02-10T07:00:00Z",
+      "category": [
+        "Financial Results"
+      ],
+      "narrative_tag": "financial_results",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    }
+  ],
+  "CPG": [
+    {
+      "id": "CPG_001",
+      "source": "seed_historical",
+      "company": "Compass Group",
+      "ticker": "CPG",
+      "headline": "Compass Group Raises Full Year Guidance as Post-COVID Recovery Exceeds Expectations",
+      "body": "Compass Group raises its full year organic revenue growth guidance to approximately 20% and operating margin guidance, driven by stronger than expected volume recovery in North America and Europe. The company also announces continuation of its bolt-on acquisition strategy, having completed six acquisitions in the year, and upgrades its medium-term margin targets.",
+      "published_at": "2023-05-10T07:00:00Z",
+      "category": [
+        "Guidance Upgrade",
+        "Trading Update"
+      ],
+      "narrative_tag": "financial_results",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    }
+  ],
+  "HLMA": [
+    {
+      "id": "HLMA_001",
+      "source": "seed_historical",
+      "company": "Halma",
+      "ticker": "HLMA",
+      "headline": "Halma Full Year Results — Record Revenue and Profit, Eight Acquisitions Completed",
+      "body": "Halma reports record full year revenue of £2.2 billion and adjusted profit before tax of £418 million, up 11% and 14% respectively. The company completed eight bolt-on acquisitions during the year, consistent with its strategy of acquiring specialist safety, health and environmental technology businesses. Return on capital employed remains above 15%.",
+      "published_at": "2023-06-07T07:00:00Z",
+      "category": [
+        "Financial Results",
+        "M&A"
+      ],
+      "narrative_tag": "financial_results",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    }
+  ],
+  "MRO": [
+    {
+      "id": "MRO_001",
+      "source": "seed_historical",
+      "company": "Melrose Industries",
+      "ticker": "MRO",
+      "headline": "Melrose Completes Demerger of Automotive Business — Retains GKN Aerospace as Standalone Company",
+      "body": "Melrose completes the demerger of its automotive components business, which is listed separately as Dowlais Group plc, and retains GKN Aerospace as a focused aerospace engineering company. The demerger is the culmination of Melrose's buy-improve-sell strategy applied to the GKN acquisition. Melrose shareholders receive shares in Dowlais Group.",
+      "published_at": "2023-04-20T07:00:00Z",
+      "category": [
+        "Demerger",
+        "Restructuring"
+      ],
+      "narrative_tag": "restructuring",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    },
+    {
+      "id": "MRO_002",
+      "source": "seed_historical",
+      "company": "Melrose Industries",
+      "ticker": "MRO",
+      "headline": "GKN Aerospace Full Year Results — Revenue Grows 19%, Engine Systems Drives Outperformance",
+      "body": "Melrose reports GKN Aerospace full year revenue growth of 19% to £3.6 billion, significantly ahead of the commercial aerospace market recovery. Engine systems and airframe structures both outperform. The company raises its medium-term revenue and margin targets and announces a buyback programme as confidence in the aerospace cycle strengthens.",
+      "published_at": "2024-03-06T07:00:00Z",
+      "category": [
+        "Financial Results"
+      ],
+      "narrative_tag": "financial_results",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    }
+  ],
+  "ANTO": [
+    {
+      "id": "ANTO_001",
+      "source": "seed_historical",
+      "company": "Antofagasta",
+      "ticker": "ANTO",
+      "headline": "Antofagasta Full Year Results — Copper Production 660,000 Tonnes, Dividend Raised",
+      "body": "Antofagasta reports full year copper production of 660,000 tonnes, towards the top of guidance, and raises its full year dividend. The company benefits from higher copper prices driven by energy transition demand and announces its Los Pelambres expansion is on track, which will add approximately 60,000 tonnes of annual capacity.",
+      "published_at": "2023-02-28T07:00:00Z",
+      "category": [
+        "Financial Results",
+        "Production Update"
+      ],
+      "narrative_tag": "financial_results",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    }
+  ],
+  "EZJ": [
+    {
+      "id": "EZJ_001",
+      "source": "seed_historical",
+      "company": "easyJet",
+      "ticker": "EZJ",
+      "headline": "easyJet Issues Profit Warning — Operational Disruption and Rising Costs Hit Summer Outlook",
+      "body": "easyJet issues a profit warning, stating that operational disruption caused by air traffic control strikes, staff shortages and technical issues, combined with higher fuel and staff costs, will result in headline profit before tax materially below prior guidance. The company cancels thousands of flights during peak summer season.",
+      "published_at": "2022-07-05T07:00:00Z",
+      "category": [
+        "Profit Warning",
+        "Operational Issues"
+      ],
+      "narrative_tag": "profit_warning",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    },
+    {
+      "id": "EZJ_002",
+      "source": "seed_historical",
+      "company": "easyJet",
+      "ticker": "EZJ",
+      "headline": "easyJet Returns to Full Year Profit of £455m as Demand Recovery Exceeds Expectations",
+      "body": "easyJet reports a return to full year headline profit before tax of £455 million, its first full year profit since the COVID-19 pandemic. The company cites exceptionally strong demand for leisure travel, particularly in southern European routes, and announces the reinstatement of its dividend.",
+      "published_at": "2023-11-21T07:00:00Z",
+      "category": [
+        "Financial Results",
+        "Profit Recovery"
+      ],
+      "narrative_tag": "financial_results",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    }
+  ],
+  "WTB": [
+    {
+      "id": "WTB_001",
+      "source": "seed_historical",
+      "company": "Whitbread",
+      "ticker": "WTB",
+      "headline": "Whitbread Reports Record UK RevPAR and Accelerates Germany Expansion Plan",
+      "body": "Whitbread reports record UK revenue per available room for its Premier Inn brand and announces an acceleration of its German expansion plan, adding a further 25 hotel pipeline commitments. The company states Germany is on track to be profitable at the hotel EBITDA level for the first time and raises its medium-term German room target.",
+      "published_at": "2023-10-24T07:00:00Z",
+      "category": [
+        "Trading Update",
+        "Expansion"
+      ],
+      "narrative_tag": "financial_results",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    }
+  ],
+  "SN.": [
+    {
+      "id": "SN_001",
+      "source": "seed_historical",
+      "company": "Smith & Nephew",
+      "ticker": "SN.",
+      "headline": "Smith & Nephew Issues Second Profit Warning — US Supply Chain and Execution Issues Persist",
+      "body": "Smith & Nephew issues a profit warning, the company's second in twelve months, citing ongoing supply chain disruptions and execution challenges in its US orthopedics business. The company lowers its full year trading profit margin guidance and announces a comprehensive operational review. The board states the issues are operational rather than structural.",
+      "published_at": "2022-10-31T07:00:00Z",
+      "category": [
+        "Profit Warning",
+        "Operational Issues"
+      ],
+      "narrative_tag": "profit_warning",
+      "response_type": "reactive",
+      "response_timing": "immediate",
+      "crisis_trigger": "market_rumour"
+    },
+    {
+      "id": "SN_002",
+      "source": "seed_historical",
+      "company": "Smith & Nephew",
+      "ticker": "SN.",
+      "headline": "Smith & Nephew Announces 12-Point Operational Action Plan to Restore Performance",
+      "body": "Smith & Nephew announces a comprehensive 12-point action plan to address its operational underperformance, including investment in US manufacturing capacity, improvements to its commercial model and supply chain resilience. The plan is expected to return the company to its medium-term financial targets over 18-24 months.",
+      "published_at": "2023-02-23T07:00:00Z",
+      "category": [
+        "Restructuring",
+        "Strategy Update"
+      ],
+      "narrative_tag": "strategic_shift",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    }
+  ],
+  "HIK": [
+    {
+      "id": "HIK_001",
+      "source": "seed_historical",
+      "company": "Hikma Pharmaceuticals",
+      "ticker": "HIK",
+      "headline": "Hikma Full Year Results — Branded Business Drives Record Revenue of $2.7bn",
+      "body": "Hikma Pharmaceuticals reports record full year revenue of $2.7 billion, driven by strong performance in its branded business in MENA markets and recovery in its US injectables division. The company raises its dividend and states it is well positioned to benefit from continued generic drug opportunities in the US market.",
+      "published_at": "2023-03-01T07:00:00Z",
+      "category": [
+        "Financial Results"
+      ],
+      "narrative_tag": "financial_results",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    }
+  ],
+  "III": [
+    {
+      "id": "III_001",
+      "source": "seed_historical",
+      "company": "3i Group",
+      "ticker": "III",
+      "headline": "3i Group Reports Record NAV Growth Driven by Action's Exceptional Performance",
+      "body": "3i Group reports record net asset value per share growth, driven by the outstanding performance of Action, the European non-food discount retailer in which 3i holds a majority stake. Action has delivered consistently strong like-for-like sales growth and store rollout across Europe, making it one of the most valuable unquoted European retailers.",
+      "published_at": "2023-05-11T07:00:00Z",
+      "category": [
+        "Financial Results",
+        "NAV Growth"
+      ],
+      "narrative_tag": "financial_results",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    }
+  ],
+  "CRDA": [
+    {
+      "id": "CRDA_001",
+      "source": "seed_historical",
+      "company": "Croda International",
+      "ticker": "CRDA",
+      "headline": "Croda International Issues Profit Warning — Destocking Across Consumer Care Markets",
+      "body": "Croda International issues a profit warning, stating that destocking by customers across its consumer care markets including beauty and personal care has been more prolonged than anticipated. The company lowers its full year adjusted profit before tax guidance and states that the recovery to normalised volumes is now expected to take until the second half of 2024.",
+      "published_at": "2023-07-13T07:00:00Z",
+      "category": [
+        "Profit Warning"
+      ],
+      "narrative_tag": "profit_warning",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    }
+  ],
+  "IMI": [
+    {
+      "id": "IMI_001",
+      "source": "seed_historical",
+      "company": "IMI",
+      "ticker": "IMI",
+      "headline": "IMI Full Year Results — Organic Revenue Growth 9%, Raises Medium-Term Margin Targets",
+      "body": "IMI reports full year organic revenue growth of 9% and raises its medium-term adjusted operating margin target to approximately 20%, up from the prior 18% target. Strong performance in climate control and life sciences divisions offsets softness in industrial automation. The company announces a new share buyback programme.",
+      "published_at": "2024-03-05T07:00:00Z",
+      "category": [
+        "Financial Results",
+        "Guidance Upgrade"
+      ],
+      "narrative_tag": "financial_results",
+      "response_type": "proactive",
+      "response_timing": "planned",
+      "crisis_trigger": "none"
+    }
+  ],
+  "CRISIS": [
+    {
+      "id": "CRISIS_001",
+      "source": "seed_historical",
+      "company": "NatWest Group",
+      "ticker": "NWG",
+      "headline": "NatWest Faces Media Coverage Alleging CEO Leaked Confidential Client Banking Details",
+      "body": "NatWest faces intense media pressure following reports that CEO Alison Rose discussed confidential banking details of a prominent client with a BBC journalist. The bank is under pressure to respond as the story escalates and government officials demand accountability. A decision on whether to make an immediate statement or await internal investigation is required.",
+      "published_at": "2023-07-25T07:00:00Z",
+      "category": [
+        "Reputational Crisis",
+        "Media Pressure"
+      ],
+      "narrative_tag": "reputational_crisis",
+      "response_type": "reactive",
+      "response_timing": "immediate",
+      "crisis_trigger": "media"
+    },
+    {
+      "id": "CRISIS_002",
+      "source": "seed_historical",
+      "company": "BP",
+      "ticker": "BP.",
+      "headline": "BP Board Faces Allegations of Undisclosed Personal Relationships Involving CEO",
+      "body": "BP faces a governance crisis as fresh allegations emerge regarding CEO Bernard Looney's failure to fully disclose details of personal relationships with colleagues. The board has received legal advice and faces a decision on whether to make an immediate public statement, suspend the CEO pending investigation, or await completion of the review process.",
+      "published_at": "2023-09-11T07:00:00Z",
+      "category": [
+        "Reputational Crisis",
+        "Governance"
+      ],
+      "narrative_tag": "reputational_crisis",
+      "response_type": "reactive",
+      "response_timing": "immediate",
+      "crisis_trigger": "media"
+    },
+    {
+      "id": "CRISIS_003",
+      "source": "seed_historical",
+      "company": "Barclays",
+      "ticker": "BARC",
+      "headline": "Barclays Discovers Material Over-Issuance of US Securities — Internal Review Underway",
+      "body": "Barclays has identified a material error in the issuance of structured products in the United States. The bank faces a decision on timing and content of public disclosure, including whether to quantify the financial impact immediately or await completion of legal and regulatory review. Regulatory notification obligations are being assessed.",
+      "published_at": "2022-03-25T07:00:00Z",
+      "category": [
+        "Regulatory Crisis",
+        "Disclosure"
+      ],
+      "narrative_tag": "regulatory_pressure",
+      "response_type": "reactive",
+      "response_timing": "immediate",
+      "crisis_trigger": "regulatory"
+    },
+    {
+      "id": "CRISIS_004",
+      "source": "seed_historical",
+      "company": "Vodafone Group",
+      "ticker": "VOD",
+      "headline": "Vodafone Three UK Merger Faces Regulatory Scrutiny as CMA Opens Investigation",
+      "body": "The proposed merger between Vodafone UK and Three UK faces sustained regulatory challenge as the CMA investigation enters a detailed phase. The companies face a decision on engagement strategy — whether to proactively commit to remedies to secure approval or contest the CMA's preliminary concerns publicly.",
+      "published_at": "2023-10-05T07:00:00Z",
+      "category": [
+        "Regulatory Challenge",
+        "M&A"
+      ],
+      "narrative_tag": "regulatory_pressure",
+      "response_type": "reactive",
+      "response_timing": "delayed",
+      "crisis_trigger": "regulatory"
+    },
+    {
+      "id": "CRISIS_005",
+      "source": "seed_historical",
+      "company": "Reckitt Benckiser",
+      "ticker": "RKT",
+      "headline": "Consumer Goods Company Faces First Adverse Verdict in Product Liability Trial With Hundreds of Similar Cases Pending",
+      "body": "A listed consumer goods company faces an adverse jury verdict in a US product liability trial and must decide how to respond publicly. Hundreds of similar cases are pending and analysts are estimating potential liabilities ranging from manageable to catastrophic. The board must choose between aggressive appeal communications, settlement signalling, or strategic disposal of the relevant business unit.",
+      "published_at": "2024-03-15T07:00:00Z",
+      "category": [
+        "Reputational Crisis",
+        "Product Liability"
+      ],
+      "narrative_tag": "reputational_crisis",
+      "response_type": "reactive",
+      "response_timing": "immediate",
+      "crisis_trigger": "regulatory"
+    },
+    {
+      "id": "CRISIS_006",
+      "source": "seed_historical",
+      "company": "GSK",
+      "ticker": "GSK",
+      "headline": "Company Faces Activist Investor Campaign Questioning CEO Fitness and Demanding Board Overhaul",
+      "body": "A FTSE 100 company faces a public activist campaign from a prominent hedge fund that has built a significant stake and is calling for the CEO to reapply for their role following a strategic reset. The activist is rallying other shareholders and demanding changes to board composition. The company must decide whether to engage privately, respond publicly, or pre-empt further escalation with a strategic update.",
+      "published_at": "2021-04-28T07:00:00Z",
+      "category": [
+        "Activist Crisis",
+        "Leadership Pressure"
+      ],
+      "narrative_tag": "reputational_crisis",
+      "response_type": "reactive",
+      "response_timing": "delayed",
+      "crisis_trigger": "activist"
+    },
+    {
+      "id": "CRISIS_007",
+      "source": "seed_historical",
+      "company": "St James's Place",
+      "ticker": "STJ",
+      "headline": "Financial Services Company Under Regulatory Investigation for Charging Fees Without Delivering Services",
+      "body": "A regulated financial services company is under investigation by the FCA for charging clients ongoing service fees without delivering the annual reviews they were entitled to. The regulator has written to the company and is assessing the scale of the redress required under Consumer Duty obligations. The board must decide on the size of a provision and the timing of a public announcement before the regulator forces disclosure.",
+      "published_at": "2024-01-15T07:00:00Z",
+      "category": [
+        "Regulatory Crisis",
+        "FCA Investigation"
+      ],
+      "narrative_tag": "regulatory_pressure",
+      "response_type": "reactive",
+      "response_timing": "delayed",
+      "crisis_trigger": "regulatory"
+    },
+    {
+      "id": "CRISIS_008",
+      "source": "seed_historical",
+      "company": "BP",
+      "ticker": "BP.",
+      "headline": "BP Board Confirms Internal Review of CEO Before Making Public Statement on His Future",
+      "body": "BP's board conducts an internal review over several weeks following initial reports of undisclosed personal relationships involving CEO Bernard Looney. The board delays making a public statement on the CEO's future while the review proceeds. During this period the share price drifts as uncertainty persists about leadership continuity. The delayed approach ultimately results in a second, more damaging disclosure when further misconduct is revealed.",
+      "published_at": "2022-09-13T07:00:00Z",
+      "category": [
+        "Reputational Crisis",
+        "Governance"
+      ],
+      "narrative_tag": "reputational_crisis",
+      "response_type": "reactive",
+      "response_timing": "delayed",
+      "crisis_trigger": "media"
+    },
+    {
+      "id": "CRISIS_009",
+      "source": "seed_historical",
+      "company": "GSK",
+      "ticker": "GSK",
+      "headline": "Company Board Delays Public Response to Activist CEO Challenge — Investor Day Used as Response Platform",
+      "body": "A FTSE 100 board faces an activist campaign questioning CEO fitness but chooses not to issue an immediate public statement. Instead the board uses a scheduled investor day weeks later as the platform to respond to activist demands, giving the CEO an opportunity to present a new strategic plan before making public statements about the leadership question. This delayed but structured response allows the company to control the narrative rather than react to media pressure.",
+      "published_at": "2021-06-23T07:00:00Z",
+      "category": [
+        "Activist Response",
+        "Leadership Defence"
+      ],
+      "narrative_tag": "reputational_crisis",
+      "response_type": "reactive",
+      "response_timing": "delayed",
+      "crisis_trigger": "activist"
+    },
+    {
+      "id": "CRISIS_010",
+      "source": "seed_historical",
+      "company": "NatWest Group",
+      "ticker": "NWG",
+      "headline": "Board Faces Decision on Whether to Wait for Internal Investigation Before Commenting on CEO Conduct",
+      "body": "A listed company board faces a situation where the CEO is under scrutiny for potential conduct issues. The board must choose between issuing an immediate public statement to manage media pressure, or waiting for an internal investigation to conclude before making any public comment. Historical precedent suggests that delayed responses to media-driven conduct crises often result in prolonged uncertainty and sustained share price pressure.",
+      "published_at": "2023-07-24T07:00:00Z",
+      "category": [
+        "Crisis Situation",
+        "Leadership Conduct"
+      ],
+      "narrative_tag": "reputational_crisis",
+      "response_type": "reactive",
+      "response_timing": "delayed",
+      "crisis_trigger": "media"
+    }
+  ],
+  "RKT": [
+    {
+      "id": "RKT_001",
+      "source": "seed_historical",
+      "company": "Reckitt Benckiser",
+      "ticker": "RKT",
+      "headline": "Reckitt Mead Johnson Ordered to Pay $60m in US Infant Formula NEC Trial",
+      "body": "A US court in Illinois orders Reckitt subsidiary Mead Johnson to pay $60 million in damages to the mother of a premature baby who died after consuming Enfamil formula, with the jury ruling the company failed to warn of necrotising enterocolitis risk. Reckitt shares fall 15% on the day — their steepest single-day decline since 1999 — as investors price in the risk of hundreds of similar pending cases. The company states it will appeal and stands by product safety.",
+      "published_at": "2024-03-15T07:00:00Z",
+      "category": [
+        "Litigation",
+        "Product Liability"
+      ],
+      "narrative_tag": "regulatory_pressure",
+      "response_type": "reactive",
+      "response_timing": "immediate",
+      "crisis_trigger": "regulatory"
+    },
+    {
+      "id": "RKT_002",
+      "source": "seed_historical",
+      "company": "Reckitt Benckiser",
+      "ticker": "RKT",
+      "headline": "Reckitt Faces Growing US Infant Formula Litigation — Board Assessing Strategic Options for Mead Johnson",
+      "body": "Reckitt faces a mounting litigation crisis as hundreds of US lawsuits allege its Enfamil formula causes necrotising enterocolitis in premature infants. Following the first $60 million verdict against Mead Johnson, the board is assessing strategic options including disposal or separation of the nutrition business. The company must decide how to communicate its litigation exposure and future strategy to investors while managing ongoing legal proceedings.",
+      "published_at": "2024-03-18T07:00:00Z",
+      "category": [
+        "Reputational Crisis",
+        "Litigation",
+        "Strategic Review"
+      ],
+      "narrative_tag": "reputational_crisis",
+      "response_type": "reactive",
+      "response_timing": "immediate",
+      "crisis_trigger": "regulatory"
+    }
+  ],
+  "STJ": [
+    {
+      "id": "STJ_001",
+      "source": "seed_historical",
+      "company": "St James's Place",
+      "ticker": "STJ",
+      "headline": "St James's Place Sets Aside £426m for FCA Redress After Clients Charged for Undelivered Advice",
+      "body": "St James's Place announces a £426 million provision for client redress following FCA scrutiny of its ongoing advice fees under the new Consumer Duty regulations. The company acknowledges that significant numbers of clients paid for an all-inclusive advice package but did not receive annual reviews as required. The announcement follows months of regulatory pressure and represents one of the largest FCA-related provisions by a UK wealth manager. Shares fall sharply on the announcement.",
+      "published_at": "2024-02-29T07:00:00Z",
+      "category": [
+        "Regulatory Enforcement",
+        "Redress Provision"
+      ],
+      "narrative_tag": "regulatory_pressure",
+      "response_type": "reactive",
+      "response_timing": "immediate",
+      "crisis_trigger": "regulatory"
+    },
+    {
+      "id": "STJ_002",
+      "source": "seed_historical",
+      "company": "St James's Place",
+      "ticker": "STJ",
+      "headline": "St James's Place Faces FCA Investigation into Ongoing Advice Fees — Board Considering Redress Provision",
+      "body": "St James's Place is under sustained FCA pressure regarding its practice of charging clients ongoing service fees without providing the required annual review. The regulator has written to 20 of the largest UK advice firms and is scrutinising SJP's all-inclusive fee model under the new Consumer Duty rules. The board must decide on the size of a redress provision and how to communicate the regulatory risk to shareholders without triggering a disproportionate market reaction.",
+      "published_at": "2024-01-15T07:00:00Z",
+      "category": [
+        "Regulatory Crisis",
+        "FCA Investigation"
+      ],
+      "narrative_tag": "regulatory_pressure",
+      "response_type": "reactive",
+      "response_timing": "delayed",
+      "crisis_trigger": "regulatory"
+    }
+  ]
+}

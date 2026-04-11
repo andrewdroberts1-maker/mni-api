@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+sentence-transformers
+numpy
+scipy
+yfinance
+pandas
+requests
+python-multipart
