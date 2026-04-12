@@ -1,6 +1,2 @@
-[phases.install]
-cmds = [
-  "pip install fastapi uvicorn[standard] python-dotenv numpy scipy requests pandas yfinance python-multipart",
-  "pip install torch --index-url https://download.pytorch.org/whl/cpu",
-  "pip install transformers sentence-transformers"
-]
+[variables]
+PIP_EXTRA_INDEX_URL = "https://download.pytorch.org/whl/cpu"
