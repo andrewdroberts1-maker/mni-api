@@ -145,35 +145,42 @@ def cosine_similarity(vec_a, vec_b):
 # ─────────────────────────────────────────────────────────────
 
 def build_event_index(events, model):
+     """
+    Build semantic search index from events.
+    Loads pre-computed embeddings from disk if available —
+    much faster on Railway. Falls back to computing if not found.
     """
-    Pre-compute embeddings for all historical events.
-    Returns a list of (event, embedding) pairs.
-    """
-    print("\n  Building semantic index of historical events...")
-    index = []
-
-    for event in events:
-        # Build a rich text description for each event
-        parts = [event.get("headline", "")]
-
-        categories = event.get("categories", [])
-        if categories:
-            parts.append("Category: " + ", ".join(str(c) for c in categories))
-
-        narrative_tag = event.get("narrative_tag", "")
-        if narrative_tag:
-            parts.append("Type: " + narrative_tag.replace("_", " "))
-
-        body = event.get("body", "")
-        if body:
-            parts.append(body[:300])   # first 300 chars of body text
-
-        full_text = ". ".join(filter(None, parts))
-        embedding  = embed_text(model, full_text)
-        index.append((event, embedding, full_text))
-
-    print(f"  ✓  Index built — {len(index)} events ready for search")
-    return index
+    import os
+    import numpy as np
+ 
+    EMBEDDINGS_PATH = os.path.join("data", "event_embeddings.npy")
+    HEADLINES_PATH  = os.path.join("data", "event_headlines.json")
+ 
+    headlines = [e.get("headline", "") for e in events]
+ 
+    # Try loading pre-computed embeddings
+    if os.path.exists(EMBEDDINGS_PATH) and os.path.exists(HEADLINES_PATH):
+        try:
+            saved_embeddings = np.load(EMBEDDINGS_PATH)
+            with open(HEADLINES_PATH) as f:
+                import json
+                saved_headlines = json.load(f)
+ 
+            # Verify alignment — same number of events
+            if len(saved_embeddings) == len(events):
+                print(f"  ✓  Loaded pre-computed embeddings ({len(events)} events)")
+                print(f"  ✓  Index ready — {len(events)} events ready for search")
+                return list(zip(saved_embeddings, events))
+            else:
+                print(f"  ⚠  Embedding count mismatch ({len(saved_embeddings)} vs {len(events)}) — recomputing")
+        except Exception as e:
+            print(f"  ⚠  Could not load embeddings: {e} — recomputing")
+ 
+    # Fall back to computing
+    print("  Building semantic index of historical events...")
+    embeddings = model.encode(headlines, show_progress_bar=False, batch_size=64)
+    print(f"  ✓  Index built — {len(events)} events ready for search")
+    return list(zip(embeddings, events))
 
 
 # ─────────────────────────────────────────────────────────────
